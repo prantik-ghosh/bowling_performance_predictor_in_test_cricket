@@ -1194,160 +1194,160 @@
 1756,36.0,0,163,1,4.52,163,216,Australia,Birmingham,1,1,1,AR Caddick,England,2001
 1757,56.0,12,165,1,2.94,165,336,India,Johannesburg,1,1,1,DW Steyn,South Africa,2013
 1758,44.0,9,167,1,3.79,167,264,Australia,Nagpur,1,1,1,AB Agarkar,India,2004
-1760,14.0,5,16,0,1.14,-,-,South Africa,Georgetown,1,1,1,WW Hinds,West Indies,2005
-1761,15.0,6,20,0,1.33,-,-,South Africa,Nagpur,1,1,1,I Sharma,India,2015
-1762,14.0,6,21,0,1.5,-,-,Australia,Auckland,1,1,1,SB Doull,New Zealand,2000
-1765,10.0,5,22,0,2.2,-,-,England,Galle,1,1,1,RAS Lakmal,Sri Lanka,2012
-1766,10.0,2,22,0,2.2,-,-,West Indies,Centurion,1,1,1,S van Zyl,South Africa,2014
-1767,17.0,8,23,0,1.35,-,-,West Indies,Port Elizabeth,1,1,1,JH Kallis,South Africa,2007
-1771,11.0,3,24,0,2.18,-,-,West Indies,Colombo (PSS),1,1,1,N Pradeep,Sri Lanka,2015
-1772,10.0,3,25,0,2.5,-,-,New Zealand,Bloemfontein,1,1,1,L Klusener,South Africa,2000
-1773,25.0,13,25,0,1.0,-,-,West Indies,Melbourne,1,1,1,GD McGrath,Australia,2000
-1775,10.0,1,25,0,2.5,-,-,New Zealand,Colombo (PSS),1,1,1,AD Mathews,Sri Lanka,2012
-1777,10.1,3,26,0,2.55,-,-,India,Johannesburg,1,1,1,DW Steyn,South Africa,2006
-1779,13.1,5,27,0,2.05,-,-,West Indies,Napier,1,1,1,SB Styris,New Zealand,2006
-1780,16.0,6,27,0,1.68,-,-,Australia,Port of Spain,1,1,1,DJG Sammy,West Indies,2012
-1781,11.0,0,27,0,2.45,-,-,Australia,Pune,1,1,1,I Sharma,India,2017
-1784,10.0,3,29,0,2.9,-,-,Sri Lanka,Chennai,1,1,1,AB Agarkar,India,2005
-1785,10.1,3,29,0,2.85,-,-,West Indies,Lord's,1,1,1,MJ Hoggard,England,2007
-1787,11.0,4,29,0,2.63,-,-,India,Adelaide,1,1,1,MR Marsh,Australia,2014
-1788,10.0,4,30,0,3.0,-,-,South Africa,Wellington,1,1,1,SB Styris,New Zealand,2004
-1790,10.0,1,31,0,3.1,-,-,New Zealand,Kingston,1,1,1,DJG Sammy,West Indies,2012
-1791,11.0,0,32,0,2.9,-,-,South Africa,Kanpur,1,1,1,S Sreesanth,India,2008
-1792,11.0,1,32,0,2.9,-,-,South Africa,Port of Spain,1,1,1,NT Pascal,West Indies,2010
-1797,12.0,0,34,0,2.83,-,-,India,Galle,1,1,1,ASA Perera,Sri Lanka,2001
-1800,10.0,4,34,0,3.4,-,-,West Indies,Pallekele,1,1,1,AD Mathews,Sri Lanka,2010
-1801,10.0,1,34,0,3.4,-,-,England,Melbourne,1,1,1,SR Watson,Australia,2010
-1804,19.0,7,34,0,1.78,-,-,India,Gros Islet,1,1,1,JO Holder,West Indies,2016
-1806,11.0,1,35,0,3.18,-,-,New Zealand,Kanpur,1,1,1,Mohammed Shami,India,2016
-1810,11.0,1,36,0,3.27,-,-,India,Durban,1,1,1,JH Kallis,South Africa,2013
-1811,19.0,9,36,0,1.89,-,-,England,Centurion,1,1,1,KJ Abbott,South Africa,2016
-1812,11.0,3,37,0,3.36,-,-,West Indies,Birmingham,1,1,1,JM Anderson,England,2004
-1814,11.0,4,37,0,3.36,-,-,South Africa,Lord's,1,1,1,PD Collingwood,England,2008
-1815,11.0,5,38,0,3.45,-,-,India,Napier,1,1,1,JD Ryder,New Zealand,2009
-1817,11.0,2,38,0,3.45,-,-,England,Mumbai,1,1,1,UT Yadav,India,2016
-1818,13.0,3,39,0,3.0,-,-,England,Bengaluru,1,1,1,SC Ganguly,India,2001
-1819,24.0,7,39,0,1.62,-,-,England,Port of Spain,1,1,1,CD Collymore,West Indies,2004
-1822,13.0,3,40,0,3.07,-,-,South Africa,Bengaluru,1,1,1,I Sharma,India,2015
-1823,13.0,1,40,0,3.07,-,-,New Zealand,Indore,1,1,1,Mohammed Shami,India,2016
-1824,19.0,9,42,0,2.21,-,-,South Africa,Galle,1,1,1,MF Maharoof,Sri Lanka,2004
-1825,20.0,3,42,0,2.1,-,-,England,Galle,1,1,1,SL Malinga,Sri Lanka,2007
-1826,12.0,4,42,0,3.5,-,-,Australia,Nottingham,1,1,1,ST Finn,England,2015
-1827,12.0,1,42,0,3.5,-,-,England,Melbourne,1,1,1,MR Marsh,Australia,2017
-1829,14.0,1,43,0,3.07,-,-,England,Durban,1,1,1,JH Kallis,South Africa,2009
-1830,27.0,12,43,0,1.59,-,-,South Africa,Bridgetown,1,1,1,DJ Bravo,West Indies,2010
-1831,11.0,1,43,0,3.9,-,-,Sri Lanka,Durban,1,1,1,JH Kallis,South Africa,2011
-1832,10.0,1,43,0,4.3,-,-,India,Manchester,1,1,1,CR Woakes,England,2014
-1833,10.0,0,43,0,4.3,-,-,England,Cape Town,1,1,1,S van Zyl,South Africa,2016
-1834,16.0,4,43,0,2.68,-,-,Sri Lanka,Nagpur,1,1,1,UT Yadav,India,2017
-1835,13.0,2,44,0,3.38,-,-,England,Centurion,1,1,1,JH Kallis,South Africa,2000
-1836,10.0,0,44,0,4.4,-,-,New Zealand,Perth,1,1,1,DR Martyn,Australia,2001
-1841,15.0,4,45,0,3.0,-,-,New Zealand,Cape Town,1,1,1,JH Kallis,South Africa,2006
-1843,17.0,5,45,0,2.64,-,-,Australia,Hyderabad (Deccan),1,1,1,I Sharma,India,2013
-1846,12.0,2,46,0,3.83,-,-,Australia,The Oval,1,1,1,JM Anderson,England,2009
-1847,15.0,3,46,0,3.06,-,-,Sri Lanka,Cape Town,1,1,1,KJ Abbott,South Africa,2017
-1848,11.0,1,47,0,4.27,-,-,Australia,Cape Town,1,1,1,AJ Hall,South Africa,2002
-1851,29.0,7,48,0,1.65,-,-,Sri Lanka,Gros Islet,1,1,1,M Dillon,West Indies,2003
-1852,15.0,3,48,0,3.2,-,-,South Africa,Colombo (SSC),1,1,1,MF Maharoof,Sri Lanka,2006
-1853,15.0,4,48,0,3.2,-,-,West Indies,Napier,1,1,1,KD Mills,New Zealand,2008
-1854,10.0,1,48,0,4.8,-,-,Sri Lanka,Centurion,1,1,1,M Morkel,South Africa,2011
-1855,14.0,3,48,0,3.42,-,-,West Indies,Port Elizabeth,1,1,1,DW Steyn,South Africa,2014
-1856,13.0,3,49,0,3.76,-,-,West Indies,Lord's,1,1,1,MJ Hoggard,England,2000
-1857,15.0,4,49,0,3.26,-,-,England,Cape Town,1,1,1,JH Kallis,South Africa,2005
-1859,22.0,7,49,0,2.22,-,-,Australia,Wellington,1,1,1,DR Tuffey,New Zealand,2010
-1860,13.0,0,49,0,3.76,-,-,England,Mumbai,1,1,1,B Kumar,India,2016
-1862,19.0,5,51,0,2.68,-,-,New Zealand,Hobart,1,1,1,B Lee,Australia,2001
-1863,11.0,1,52,0,4.72,-,-,Australia,Hamilton,1,1,1,DR Tuffey,New Zealand,2000
-1865,20.0,6,52,0,2.6,-,-,Australia,Cape Town,1,1,1,JH Kallis,South Africa,2009
-1867,19.0,5,52,0,2.73,-,-,West Indies,Delhi,1,1,1,UT Yadav,India,2011
-1869,13.0,1,52,0,4.0,-,-,Australia,Chennai,1,1,1,B Kumar,India,2013
-1871,14.0,3,53,0,3.78,-,-,West Indies,Centurion,1,1,1,DW Steyn,South Africa,2014
-1872,13.0,2,53,0,4.07,-,-,South Africa,Lord's,1,1,1,BA Stokes,England,2017
-1874,26.0,7,55,0,2.11,-,-,England,Kingston,1,1,1,CD Collymore,West Indies,2004
-1875,15.0,1,55,0,3.66,-,-,New Zealand,Indore,1,1,1,UT Yadav,India,2016
-1877,19.0,3,56,0,2.94,-,-,South Africa,Port of Spain,1,1,1,R Rampaul,West Indies,2010
-1879,17.0,2,57,0,3.35,-,-,England,Ahmedabad,1,1,1,T Yohannan,India,2001
-1880,21.1,6,57,0,2.69,-,-,England,St George's,1,1,1,JO Holder,West Indies,2015
-1882,14.0,1,58,0,4.14,-,-,England,Kingston,1,1,1,FH Edwards,West Indies,2009
-1886,23.0,6,59,0,2.56,-,-,Sri Lanka,Napier,1,1,1,KD Mills,New Zealand,2005
-1887,13.0,1,59,0,4.53,-,-,India,Perth,1,1,1,SW Tait,Australia,2008
-1888,17.0,3,59,0,3.47,-,-,Australia,Chennai,1,1,1,I Sharma,India,2013
-1889,17.0,4,59,0,3.47,-,-,India,Southampton,1,1,1,CJ Jordan,England,2014
-1890,20.0,4,59,0,2.95,-,-,Australia,The Oval,1,1,1,SCJ Broad,England,2015
-1893,26.0,6,60,0,2.3,-,-,England,Port of Spain,1,1,1,A Sanford,West Indies,2004
-1894,20.0,3,60,0,3.0,-,-,New Zealand,Manchester,1,1,1,SCJ Broad,England,2008
-1895,11.0,1,61,0,5.54,-,-,Australia,Port of Spain,1,1,1,DE Bernard,West Indies,2003
-1897,19.0,3,62,0,3.26,-,-,West Indies,Kolkata,1,1,1,J Srinath,India,2002
-1898,17.4,2,63,0,3.56,-,-,India,Colombo (SSC),1,1,1,N Pradeep,Sri Lanka,2017
-1899,21.1,6,64,0,3.02,-,-,Australia,Wellington,1,1,1,NJ Astle,New Zealand,2000
-1901,11.0,0,65,0,5.9,-,-,West Indies,Centurion,1,1,1,AJ Hall,South Africa,2004
-1902,18.0,4,65,0,3.61,-,-,South Africa,Basseterre,1,1,1,R Rampaul,West Indies,2010
-1904,20.0,5,65,0,3.25,-,-,South Africa,Lord's,1,1,1,MA Wood,England,2017
-1905,10.0,0,66,0,6.6,-,-,England,Christchurch,1,1,1,CD McMillan,New Zealand,2002
-1906,10.0,0,66,0,6.6,-,-,India,Gros Islet,1,1,1,DJ Bravo,West Indies,2006
-1907,27.0,4,67,0,2.48,-,-,New Zealand,Brisbane,1,1,1,GD McGrath,Australia,2004
-1910,19.0,4,68,0,3.57,-,-,Australia,Wellington,1,1,1,TG Southee,New Zealand,2010
-1911,15.0,0,68,0,4.53,-,-,West Indies,Hobart,1,1,1,JL Pattinson,Australia,2015
-1913,11.4,1,71,0,6.08,-,-,Australia,Mohali,1,1,1,I Sharma,India,2010
-1915,18.0,4,73,0,4.05,-,-,West Indies,Birmingham,1,1,1,ESH Giddins,England,2000
-1916,16.0,4,73,0,4.56,-,-,South Africa,Wellington,1,1,1,MJ Mason,New Zealand,2004
-1917,29.0,3,73,0,2.51,-,-,South Africa,Bridgetown,1,1,1,DJ Bravo,West Indies,2005
-1918,22.0,3,73,0,3.31,-,-,South Africa,St John's,1,1,1,DM Washington,West Indies,2005
-1921,27.0,10,76,0,2.81,-,-,South Africa,Auckland,1,1,1,SB Styris,New Zealand,2004
-1922,32.0,9,77,0,2.4,-,-,England,Wellington,1,1,1,TG Southee,New Zealand,2013
-1923,19.0,2,77,0,4.05,-,-,Australia,Lord's,1,1,1,BA Stokes,England,2015
-1924,30.0,10,78,0,2.6,-,-,New Zealand,Mohali,1,1,1,L Balaji,India,2003
-1925,18.0,1,78,0,4.33,-,-,South Africa,The Oval,1,1,1,RS Bopara,England,2012
-1928,18.0,2,80,0,4.44,-,-,West Indies,Galle,1,1,1,TCB Fernando,Sri Lanka,2001
-1929,19.0,2,80,0,4.21,-,-,India,The Oval,1,1,1,AJ Tudor,England,2002
-1931,25.0,5,80,0,3.2,-,-,India,North Sound,1,1,1,CR Brathwaite,West Indies,2016
-1933,22.0,4,81,0,3.68,-,-,England,Colombo (PSS),1,1,1,RAS Lakmal,Sri Lanka,2012
-1938,36.0,14,83,0,2.3,-,-,West Indies,Adelaide,1,1,1,GD McGrath,Australia,2000
-1939,31.0,11,83,0,2.67,-,-,India,Southampton,1,1,1,CR Woakes,England,2014
-1940,24.0,4,83,0,3.45,-,-,India,North Sound,1,1,1,JO Holder,West Indies,2016
-1941,25.0,5,84,0,3.36,-,-,Australia,Delhi,1,1,1,I Sharma,India,2008
-1944,28.0,4,85,0,3.03,-,-,South Africa,Nagpur,1,1,1,I Sharma,India,2010
-1945,25.0,4,85,0,3.4,-,-,Australia,Christchurch,1,1,1,TG Southee,New Zealand,2016
-1947,26.4,4,87,0,3.26,-,-,India,Kingston,1,1,1,ML Cummins,West Indies,2016
-1949,18.0,3,89,0,4.94,-,-,Australia,Leeds,1,1,1,JM Anderson,England,2009
-1950,41.0,12,89,0,2.17,-,-,West Indies,Melbourne,1,1,1,JR Hazlewood,Australia,2015
-1952,28.4,9,91,0,3.17,-,-,England,Melbourne,1,1,1,RJ Harris,Australia,2010
-1953,21.0,1,92,0,4.38,-,-,India,Gros Islet,1,1,1,CD Collymore,West Indies,2006
-1955,30.0,2,93,0,3.1,-,-,Australia,Birmingham,1,1,1,A Flintoff,England,2009
-1957,30.0,5,95,0,3.16,-,-,Australia,Kolkata,1,1,1,BKV Prasad,India,2001
-1959,29.0,5,97,0,3.34,-,-,India,Colombo (SSC),1,1,1,CRD Fernando,Sri Lanka,2001
-1960,27.0,3,97,0,3.59,-,-,Sri Lanka,Gros Islet,1,1,1,JE Taylor,West Indies,2003
-1961,25.0,6,97,0,3.88,-,-,South Africa,Birmingham,1,1,1,A Flintoff,England,2003
-1963,20.0,1,99,0,4.95,-,-,Australia,Bridgetown,1,1,1,TL Best,West Indies,2003
-1964,26.0,4,99,0,3.8,-,-,Australia,Lord's,1,1,1,JM Anderson,England,2015
-1965,35.0,6,100,0,2.85,-,-,West Indies,Cape Town,1,1,1,VD Philander,South Africa,2015
-1966,28.0,4,100,0,3.57,-,-,England,St George's,1,1,1,KAJ Roach,West Indies,2015
-1967,22.0,2,101,0,4.59,-,-,India,Colombo (SSC),1,1,1,KTGD Prasad,Sri Lanka,2010
-1968,32.0,8,101,0,3.15,-,-,Australia,Christchurch,1,1,1,MJ Henry,New Zealand,2016
-1970,21.0,5,102,0,4.85,-,-,West Indies,Dunedin,1,1,1,MR Gillespie,New Zealand,2008
-1971,26.0,4,102,0,3.92,-,-,Australia,Hamilton,1,1,1,CS Martin,New Zealand,2010
-1972,37.0,8,103,0,2.78,-,-,England,St John's,1,1,1,CD Collymore,West Indies,2004
-1973,26.0,3,103,0,3.96,-,-,England,St John's,1,1,1,DBL Powell,West Indies,2009
-1975,23.0,1,104,0,4.52,-,-,India,Pallekele,1,1,1,CBRLS Kumara,Sri Lanka,2017
-1976,37.0,13,106,0,2.86,-,-,India,Adelaide,1,1,1,BA Williams,Australia,2003
-1977,26.0,4,107,0,4.11,-,-,India,Cape Town,1,1,1,M Ntini,South Africa,2007
-1978,30.0,5,108,0,3.6,-,-,England,Melbourne,1,1,1,JM Bird,Australia,2017
-1982,32.5,3,112,0,3.41,-,-,South Africa,Bridgetown,1,1,1,FH Edwards,West Indies,2005
-1983,32.0,6,113,0,3.53,-,-,India,St John's,1,1,1,A Sanford,West Indies,2002
-1986,29.0,4,114,0,3.93,-,-,England,Durban,1,1,1,M Ntini,South Africa,2009
-1990,30.0,3,116,0,3.86,-,-,West Indies,Galle,1,1,1,KTGD Prasad,Sri Lanka,2010
-1991,33.0,6,116,0,3.51,-,-,Australia,Manchester,1,1,1,JM Anderson,England,2013
-1992,23.0,2,117,0,5.08,-,-,South Africa,Melbourne,1,1,1,B Lee,Australia,2008
-1994,34.0,6,118,0,3.47,-,-,South Africa,The Oval,1,1,1,SCJ Broad,England,2012
-1997,30.0,3,121,0,4.03,-,-,England,Adelaide,1,1,1,PM Siddle,Australia,2010
-1999,28.0,6,123,0,4.39,-,-,Australia,Wellington,1,1,1,CS Martin,New Zealand,2005
-2000,28.0,3,127,0,4.53,-,-,South Africa,Lord's,1,1,1,D Gough,England,2003
-2002,43.0,9,129,0,3.0,-,-,India,Adelaide,1,1,1,SR Clark,Australia,2008
-2003,35.0,8,129,0,3.68,-,-,South Africa,Nottingham,1,1,1,MA Wood,England,2017
-2006,38.3,6,135,0,3.5,-,-,Sri Lanka,Lord's,1,1,1,AR Caddick,England,2002
-2008,44.0,12,137,0,3.11,-,-,Sri Lanka,Leeds,1,1,1,CJ Jordan,England,2014
-2009,36.0,5,140,0,3.88,-,-,South Africa,Dunedin,1,1,1,TG Southee,New Zealand,2012
-2011,36.0,9,146,0,4.05,-,-,Australia,The Oval,1,1,1,AR Caddick,England,2001
+1760,14.0,5,16,0,1.14,1000,1000,South Africa,Georgetown,1,1,1,WW Hinds,West Indies,2005
+1761,15.0,6,20,0,1.33,1000,1000,South Africa,Nagpur,1,1,1,I Sharma,India,2015
+1762,14.0,6,21,0,1.5,1000,1000,Australia,Auckland,1,1,1,SB Doull,New Zealand,2000
+1765,10.0,5,22,0,2.2,1000,1000,England,Galle,1,1,1,RAS Lakmal,Sri Lanka,2012
+1766,10.0,2,22,0,2.2,1000,1000,West Indies,Centurion,1,1,1,S van Zyl,South Africa,2014
+1767,17.0,8,23,0,1.35,1000,1000,West Indies,Port Elizabeth,1,1,1,JH Kallis,South Africa,2007
+1771,11.0,3,24,0,2.18,1000,1000,West Indies,Colombo (PSS),1,1,1,N Pradeep,Sri Lanka,2015
+1772,10.0,3,25,0,2.5,1000,1000,New Zealand,Bloemfontein,1,1,1,L Klusener,South Africa,2000
+1773,25.0,13,25,0,1.0,1000,1000,West Indies,Melbourne,1,1,1,GD McGrath,Australia,2000
+1775,10.0,1,25,0,2.5,1000,1000,New Zealand,Colombo (PSS),1,1,1,AD Mathews,Sri Lanka,2012
+1777,10.1,3,26,0,2.55,1000,1000,India,Johannesburg,1,1,1,DW Steyn,South Africa,2006
+1779,13.1,5,27,0,2.05,1000,1000,West Indies,Napier,1,1,1,SB Styris,New Zealand,2006
+1780,16.0,6,27,0,1.68,1000,1000,Australia,Port of Spain,1,1,1,DJG Sammy,West Indies,2012
+1781,11.0,0,27,0,2.45,1000,1000,Australia,Pune,1,1,1,I Sharma,India,2017
+1784,10.0,3,29,0,2.9,1000,1000,Sri Lanka,Chennai,1,1,1,AB Agarkar,India,2005
+1785,10.1,3,29,0,2.85,1000,1000,West Indies,Lord's,1,1,1,MJ Hoggard,England,2007
+1787,11.0,4,29,0,2.63,1000,1000,India,Adelaide,1,1,1,MR Marsh,Australia,2014
+1788,10.0,4,30,0,3.0,1000,1000,South Africa,Wellington,1,1,1,SB Styris,New Zealand,2004
+1790,10.0,1,31,0,3.1,1000,1000,New Zealand,Kingston,1,1,1,DJG Sammy,West Indies,2012
+1791,11.0,0,32,0,2.9,1000,1000,South Africa,Kanpur,1,1,1,S Sreesanth,India,2008
+1792,11.0,1,32,0,2.9,1000,1000,South Africa,Port of Spain,1,1,1,NT Pascal,West Indies,2010
+1797,12.0,0,34,0,2.83,1000,1000,India,Galle,1,1,1,ASA Perera,Sri Lanka,2001
+1800,10.0,4,34,0,3.4,1000,1000,West Indies,Pallekele,1,1,1,AD Mathews,Sri Lanka,2010
+1801,10.0,1,34,0,3.4,1000,1000,England,Melbourne,1,1,1,SR Watson,Australia,2010
+1804,19.0,7,34,0,1.78,1000,1000,India,Gros Islet,1,1,1,JO Holder,West Indies,2016
+1806,11.0,1,35,0,3.18,1000,1000,New Zealand,Kanpur,1,1,1,Mohammed Shami,India,2016
+1810,11.0,1,36,0,3.27,1000,1000,India,Durban,1,1,1,JH Kallis,South Africa,2013
+1811,19.0,9,36,0,1.89,1000,1000,England,Centurion,1,1,1,KJ Abbott,South Africa,2016
+1812,11.0,3,37,0,3.36,1000,1000,West Indies,Birmingham,1,1,1,JM Anderson,England,2004
+1814,11.0,4,37,0,3.36,1000,1000,South Africa,Lord's,1,1,1,PD Collingwood,England,2008
+1815,11.0,5,38,0,3.45,1000,1000,India,Napier,1,1,1,JD Ryder,New Zealand,2009
+1817,11.0,2,38,0,3.45,1000,1000,England,Mumbai,1,1,1,UT Yadav,India,2016
+1818,13.0,3,39,0,3.0,1000,1000,England,Bengaluru,1,1,1,SC Ganguly,India,2001
+1819,24.0,7,39,0,1.62,1000,1000,England,Port of Spain,1,1,1,CD Collymore,West Indies,2004
+1822,13.0,3,40,0,3.07,1000,1000,South Africa,Bengaluru,1,1,1,I Sharma,India,2015
+1823,13.0,1,40,0,3.07,1000,1000,New Zealand,Indore,1,1,1,Mohammed Shami,India,2016
+1824,19.0,9,42,0,2.21,1000,1000,South Africa,Galle,1,1,1,MF Maharoof,Sri Lanka,2004
+1825,20.0,3,42,0,2.1,1000,1000,England,Galle,1,1,1,SL Malinga,Sri Lanka,2007
+1826,12.0,4,42,0,3.5,1000,1000,Australia,Nottingham,1,1,1,ST Finn,England,2015
+1827,12.0,1,42,0,3.5,1000,1000,England,Melbourne,1,1,1,MR Marsh,Australia,2017
+1829,14.0,1,43,0,3.07,1000,1000,England,Durban,1,1,1,JH Kallis,South Africa,2009
+1830,27.0,12,43,0,1.59,1000,1000,South Africa,Bridgetown,1,1,1,DJ Bravo,West Indies,2010
+1831,11.0,1,43,0,3.9,1000,1000,Sri Lanka,Durban,1,1,1,JH Kallis,South Africa,2011
+1832,10.0,1,43,0,4.3,1000,1000,India,Manchester,1,1,1,CR Woakes,England,2014
+1833,10.0,0,43,0,4.3,1000,1000,England,Cape Town,1,1,1,S van Zyl,South Africa,2016
+1834,16.0,4,43,0,2.68,1000,1000,Sri Lanka,Nagpur,1,1,1,UT Yadav,India,2017
+1835,13.0,2,44,0,3.38,1000,1000,England,Centurion,1,1,1,JH Kallis,South Africa,2000
+1836,10.0,0,44,0,4.4,1000,1000,New Zealand,Perth,1,1,1,DR Martyn,Australia,2001
+1841,15.0,4,45,0,3.0,1000,1000,New Zealand,Cape Town,1,1,1,JH Kallis,South Africa,2006
+1843,17.0,5,45,0,2.64,1000,1000,Australia,Hyderabad (Deccan),1,1,1,I Sharma,India,2013
+1846,12.0,2,46,0,3.83,1000,1000,Australia,The Oval,1,1,1,JM Anderson,England,2009
+1847,15.0,3,46,0,3.06,1000,1000,Sri Lanka,Cape Town,1,1,1,KJ Abbott,South Africa,2017
+1848,11.0,1,47,0,4.27,1000,1000,Australia,Cape Town,1,1,1,AJ Hall,South Africa,2002
+1851,29.0,7,48,0,1.65,1000,1000,Sri Lanka,Gros Islet,1,1,1,M Dillon,West Indies,2003
+1852,15.0,3,48,0,3.2,1000,1000,South Africa,Colombo (SSC),1,1,1,MF Maharoof,Sri Lanka,2006
+1853,15.0,4,48,0,3.2,1000,1000,West Indies,Napier,1,1,1,KD Mills,New Zealand,2008
+1854,10.0,1,48,0,4.8,1000,1000,Sri Lanka,Centurion,1,1,1,M Morkel,South Africa,2011
+1855,14.0,3,48,0,3.42,1000,1000,West Indies,Port Elizabeth,1,1,1,DW Steyn,South Africa,2014
+1856,13.0,3,49,0,3.76,1000,1000,West Indies,Lord's,1,1,1,MJ Hoggard,England,2000
+1857,15.0,4,49,0,3.26,1000,1000,England,Cape Town,1,1,1,JH Kallis,South Africa,2005
+1859,22.0,7,49,0,2.22,1000,1000,Australia,Wellington,1,1,1,DR Tuffey,New Zealand,2010
+1860,13.0,0,49,0,3.76,1000,1000,England,Mumbai,1,1,1,B Kumar,India,2016
+1862,19.0,5,51,0,2.68,1000,1000,New Zealand,Hobart,1,1,1,B Lee,Australia,2001
+1863,11.0,1,52,0,4.72,1000,1000,Australia,Hamilton,1,1,1,DR Tuffey,New Zealand,2000
+1865,20.0,6,52,0,2.6,1000,1000,Australia,Cape Town,1,1,1,JH Kallis,South Africa,2009
+1867,19.0,5,52,0,2.73,1000,1000,West Indies,Delhi,1,1,1,UT Yadav,India,2011
+1869,13.0,1,52,0,4.0,1000,1000,Australia,Chennai,1,1,1,B Kumar,India,2013
+1871,14.0,3,53,0,3.78,1000,1000,West Indies,Centurion,1,1,1,DW Steyn,South Africa,2014
+1872,13.0,2,53,0,4.07,1000,1000,South Africa,Lord's,1,1,1,BA Stokes,England,2017
+1874,26.0,7,55,0,2.11,1000,1000,England,Kingston,1,1,1,CD Collymore,West Indies,2004
+1875,15.0,1,55,0,3.66,1000,1000,New Zealand,Indore,1,1,1,UT Yadav,India,2016
+1877,19.0,3,56,0,2.94,1000,1000,South Africa,Port of Spain,1,1,1,R Rampaul,West Indies,2010
+1879,17.0,2,57,0,3.35,1000,1000,England,Ahmedabad,1,1,1,T Yohannan,India,2001
+1880,21.1,6,57,0,2.69,1000,1000,England,St George's,1,1,1,JO Holder,West Indies,2015
+1882,14.0,1,58,0,4.14,1000,1000,England,Kingston,1,1,1,FH Edwards,West Indies,2009
+1886,23.0,6,59,0,2.56,1000,1000,Sri Lanka,Napier,1,1,1,KD Mills,New Zealand,2005
+1887,13.0,1,59,0,4.53,1000,1000,India,Perth,1,1,1,SW Tait,Australia,2008
+1888,17.0,3,59,0,3.47,1000,1000,Australia,Chennai,1,1,1,I Sharma,India,2013
+1889,17.0,4,59,0,3.47,1000,1000,India,Southampton,1,1,1,CJ Jordan,England,2014
+1890,20.0,4,59,0,2.95,1000,1000,Australia,The Oval,1,1,1,SCJ Broad,England,2015
+1893,26.0,6,60,0,2.3,1000,1000,England,Port of Spain,1,1,1,A Sanford,West Indies,2004
+1894,20.0,3,60,0,3.0,1000,1000,New Zealand,Manchester,1,1,1,SCJ Broad,England,2008
+1895,11.0,1,61,0,5.54,1000,1000,Australia,Port of Spain,1,1,1,DE Bernard,West Indies,2003
+1897,19.0,3,62,0,3.26,1000,1000,West Indies,Kolkata,1,1,1,J Srinath,India,2002
+1898,17.4,2,63,0,3.56,1000,1000,India,Colombo (SSC),1,1,1,N Pradeep,Sri Lanka,2017
+1899,21.1,6,64,0,3.02,1000,1000,Australia,Wellington,1,1,1,NJ Astle,New Zealand,2000
+1901,11.0,0,65,0,5.9,1000,1000,West Indies,Centurion,1,1,1,AJ Hall,South Africa,2004
+1902,18.0,4,65,0,3.61,1000,1000,South Africa,Basseterre,1,1,1,R Rampaul,West Indies,2010
+1904,20.0,5,65,0,3.25,1000,1000,South Africa,Lord's,1,1,1,MA Wood,England,2017
+1905,10.0,0,66,0,6.6,1000,1000,England,Christchurch,1,1,1,CD McMillan,New Zealand,2002
+1906,10.0,0,66,0,6.6,1000,1000,India,Gros Islet,1,1,1,DJ Bravo,West Indies,2006
+1907,27.0,4,67,0,2.48,1000,1000,New Zealand,Brisbane,1,1,1,GD McGrath,Australia,2004
+1910,19.0,4,68,0,3.57,1000,1000,Australia,Wellington,1,1,1,TG Southee,New Zealand,2010
+1911,15.0,0,68,0,4.53,1000,1000,West Indies,Hobart,1,1,1,JL Pattinson,Australia,2015
+1913,11.4,1,71,0,6.08,1000,1000,Australia,Mohali,1,1,1,I Sharma,India,2010
+1915,18.0,4,73,0,4.05,1000,1000,West Indies,Birmingham,1,1,1,ESH Giddins,England,2000
+1916,16.0,4,73,0,4.56,1000,1000,South Africa,Wellington,1,1,1,MJ Mason,New Zealand,2004
+1917,29.0,3,73,0,2.51,1000,1000,South Africa,Bridgetown,1,1,1,DJ Bravo,West Indies,2005
+1918,22.0,3,73,0,3.31,1000,1000,South Africa,St John's,1,1,1,DM Washington,West Indies,2005
+1921,27.0,10,76,0,2.81,1000,1000,South Africa,Auckland,1,1,1,SB Styris,New Zealand,2004
+1922,32.0,9,77,0,2.4,1000,1000,England,Wellington,1,1,1,TG Southee,New Zealand,2013
+1923,19.0,2,77,0,4.05,1000,1000,Australia,Lord's,1,1,1,BA Stokes,England,2015
+1924,30.0,10,78,0,2.6,1000,1000,New Zealand,Mohali,1,1,1,L Balaji,India,2003
+1925,18.0,1,78,0,4.33,1000,1000,South Africa,The Oval,1,1,1,RS Bopara,England,2012
+1928,18.0,2,80,0,4.44,1000,1000,West Indies,Galle,1,1,1,TCB Fernando,Sri Lanka,2001
+1929,19.0,2,80,0,4.21,1000,1000,India,The Oval,1,1,1,AJ Tudor,England,2002
+1931,25.0,5,80,0,3.2,1000,1000,India,North Sound,1,1,1,CR Brathwaite,West Indies,2016
+1933,22.0,4,81,0,3.68,1000,1000,England,Colombo (PSS),1,1,1,RAS Lakmal,Sri Lanka,2012
+1938,36.0,14,83,0,2.3,1000,1000,West Indies,Adelaide,1,1,1,GD McGrath,Australia,2000
+1939,31.0,11,83,0,2.67,1000,1000,India,Southampton,1,1,1,CR Woakes,England,2014
+1940,24.0,4,83,0,3.45,1000,1000,India,North Sound,1,1,1,JO Holder,West Indies,2016
+1941,25.0,5,84,0,3.36,1000,1000,Australia,Delhi,1,1,1,I Sharma,India,2008
+1944,28.0,4,85,0,3.03,1000,1000,South Africa,Nagpur,1,1,1,I Sharma,India,2010
+1945,25.0,4,85,0,3.4,1000,1000,Australia,Christchurch,1,1,1,TG Southee,New Zealand,2016
+1947,26.4,4,87,0,3.26,1000,1000,India,Kingston,1,1,1,ML Cummins,West Indies,2016
+1949,18.0,3,89,0,4.94,1000,1000,Australia,Leeds,1,1,1,JM Anderson,England,2009
+1950,41.0,12,89,0,2.17,1000,1000,West Indies,Melbourne,1,1,1,JR Hazlewood,Australia,2015
+1952,28.4,9,91,0,3.17,1000,1000,England,Melbourne,1,1,1,RJ Harris,Australia,2010
+1953,21.0,1,92,0,4.38,1000,1000,India,Gros Islet,1,1,1,CD Collymore,West Indies,2006
+1955,30.0,2,93,0,3.1,1000,1000,Australia,Birmingham,1,1,1,A Flintoff,England,2009
+1957,30.0,5,95,0,3.16,1000,1000,Australia,Kolkata,1,1,1,BKV Prasad,India,2001
+1959,29.0,5,97,0,3.34,1000,1000,India,Colombo (SSC),1,1,1,CRD Fernando,Sri Lanka,2001
+1960,27.0,3,97,0,3.59,1000,1000,Sri Lanka,Gros Islet,1,1,1,JE Taylor,West Indies,2003
+1961,25.0,6,97,0,3.88,1000,1000,South Africa,Birmingham,1,1,1,A Flintoff,England,2003
+1963,20.0,1,99,0,4.95,1000,1000,Australia,Bridgetown,1,1,1,TL Best,West Indies,2003
+1964,26.0,4,99,0,3.8,1000,1000,Australia,Lord's,1,1,1,JM Anderson,England,2015
+1965,35.0,6,100,0,2.85,1000,1000,West Indies,Cape Town,1,1,1,VD Philander,South Africa,2015
+1966,28.0,4,100,0,3.57,1000,1000,England,St George's,1,1,1,KAJ Roach,West Indies,2015
+1967,22.0,2,101,0,4.59,1000,1000,India,Colombo (SSC),1,1,1,KTGD Prasad,Sri Lanka,2010
+1968,32.0,8,101,0,3.15,1000,1000,Australia,Christchurch,1,1,1,MJ Henry,New Zealand,2016
+1970,21.0,5,102,0,4.85,1000,1000,West Indies,Dunedin,1,1,1,MR Gillespie,New Zealand,2008
+1971,26.0,4,102,0,3.92,1000,1000,Australia,Hamilton,1,1,1,CS Martin,New Zealand,2010
+1972,37.0,8,103,0,2.78,1000,1000,England,St John's,1,1,1,CD Collymore,West Indies,2004
+1973,26.0,3,103,0,3.96,1000,1000,England,St John's,1,1,1,DBL Powell,West Indies,2009
+1975,23.0,1,104,0,4.52,1000,1000,India,Pallekele,1,1,1,CBRLS Kumara,Sri Lanka,2017
+1976,37.0,13,106,0,2.86,1000,1000,India,Adelaide,1,1,1,BA Williams,Australia,2003
+1977,26.0,4,107,0,4.11,1000,1000,India,Cape Town,1,1,1,M Ntini,South Africa,2007
+1978,30.0,5,108,0,3.6,1000,1000,England,Melbourne,1,1,1,JM Bird,Australia,2017
+1982,32.5,3,112,0,3.41,1000,1000,South Africa,Bridgetown,1,1,1,FH Edwards,West Indies,2005
+1983,32.0,6,113,0,3.53,1000,1000,India,St John's,1,1,1,A Sanford,West Indies,2002
+1986,29.0,4,114,0,3.93,1000,1000,England,Durban,1,1,1,M Ntini,South Africa,2009
+1990,30.0,3,116,0,3.86,1000,1000,West Indies,Galle,1,1,1,KTGD Prasad,Sri Lanka,2010
+1991,33.0,6,116,0,3.51,1000,1000,Australia,Manchester,1,1,1,JM Anderson,England,2013
+1992,23.0,2,117,0,5.08,1000,1000,South Africa,Melbourne,1,1,1,B Lee,Australia,2008
+1994,34.0,6,118,0,3.47,1000,1000,South Africa,The Oval,1,1,1,SCJ Broad,England,2012
+1997,30.0,3,121,0,4.03,1000,1000,England,Adelaide,1,1,1,PM Siddle,Australia,2010
+1999,28.0,6,123,0,4.39,1000,1000,Australia,Wellington,1,1,1,CS Martin,New Zealand,2005
+2000,28.0,3,127,0,4.53,1000,1000,South Africa,Lord's,1,1,1,D Gough,England,2003
+2002,43.0,9,129,0,3.0,1000,1000,India,Adelaide,1,1,1,SR Clark,Australia,2008
+2003,35.0,8,129,0,3.68,1000,1000,South Africa,Nottingham,1,1,1,MA Wood,England,2017
+2006,38.3,6,135,0,3.5,1000,1000,Sri Lanka,Lord's,1,1,1,AR Caddick,England,2002
+2008,44.0,12,137,0,3.11,1000,1000,Sri Lanka,Leeds,1,1,1,CJ Jordan,England,2014
+2009,36.0,5,140,0,3.88,1000,1000,South Africa,Dunedin,1,1,1,TG Southee,New Zealand,2012
+2011,36.0,9,146,0,4.05,1000,1000,Australia,The Oval,1,1,1,AR Caddick,England,2001
 0,80.1,26,217,15,2.7,14.46,32,Australia,Chennai,1,1,0,Harbhajan Singh,India,2001
 2,41.1,7,140,13,3.4,10.76,19,New Zealand,Indore,1,1,0,R Ashwin,India,2016
 3,76.0,13,171,13,2.25,13.15,35,South Africa,Galle,1,1,0,M Muralitharan,Sri Lanka,2000
@@ -1779,75 +1779,75 @@
 622,49.0,4,204,1,4.16,204,294,South Africa,Perth,1,1,0,JJ Krejza,Australia,2008
 624,69.0,9,207,1,3.0,207,414,England,Chennai,1,1,0,R Ashwin,India,2016
 625,54.0,6,211,1,3.9,211,324,India,Sydney,1,1,0,SCG MacGill,Australia,2004
-627,10.0,3,12,0,1.2,-,-,New Zealand,Bridgetown,1,1,0,CH Gayle,West Indies,2002
-628,12.0,4,16,0,1.33,-,-,India,Georgetown,1,1,0,CL Hooper,West Indies,2002
-631,10.0,2,19,0,1.9,-,-,South Africa,Chennai,1,1,0,VVS Laxman,India,2008
-632,10.0,2,20,0,2.0,-,-,South Africa,Kolkata,1,1,0,V Sehwag,India,2010
-633,10.0,1,20,0,2.0,-,-,West Indies,Pallekele,1,1,0,TM Dilshan,Sri Lanka,2010
-634,12.0,4,22,0,1.83,-,-,India,Nottingham,1,1,0,JE Root,England,2014
-635,14.0,8,23,0,1.64,-,-,South Africa,Georgetown,1,1,0,CL Hooper,West Indies,2001
-636,13.0,4,23,0,1.76,-,-,South Africa,Port of Spain,1,1,0,CL Hooper,West Indies,2001
-638,13.0,6,25,0,1.92,-,-,South Africa,Georgetown,1,1,0,S Chanderpaul,West Indies,2005
-639,12.0,1,25,0,2.08,-,-,England,Galle,1,1,0,TM Dilshan,Sri Lanka,2012
-642,13.0,4,29,0,2.23,-,-,India,St John's,1,1,0,CL Hooper,West Indies,2002
-644,13.0,3,29,0,2.23,-,-,New Zealand,Port of Spain,1,1,0,CH Gayle,West Indies,2014
-645,10.0,1,30,0,3.0,-,-,India,Galle,1,1,0,TM Dilshan,Sri Lanka,2010
-646,12.0,3,30,0,2.5,-,-,England,Dunedin,1,1,0,KS Williamson,New Zealand,2013
-647,14.0,2,31,0,2.21,-,-,India,Basseterre,1,1,0,CH Gayle,West Indies,2006
-648,13.0,3,32,0,2.46,-,-,England,Bridgetown,1,1,0,CH Gayle,West Indies,2004
-649,14.0,4,32,0,2.28,-,-,Australia,Pallekele,1,1,0,TM Dilshan,Sri Lanka,2011
-650,10.0,2,33,0,3.3,-,-,South Africa,Bengaluru,1,1,0,SR Tendulkar,India,2000
-652,12.0,2,33,0,2.75,-,-,Australia,Kandy,1,1,0,KS Lokuarachchi,Sri Lanka,2004
-653,10.0,1,33,0,3.3,-,-,India,Gros Islet,1,1,0,KC Brathwaite,West Indies,2016
-654,14.0,2,35,0,2.5,-,-,Sri Lanka,Lord's,1,1,0,MP Vaughan,England,2002
-656,10.0,1,35,0,3.5,-,-,Australia,Cape Town,1,1,0,Imran Tahir,South Africa,2011
-657,13.0,1,35,0,2.69,-,-,South Africa,Wellington,1,1,0,KS Williamson,New Zealand,2012
-658,17.0,6,36,0,2.11,-,-,England,St John's,1,1,0,CH Gayle,West Indies,2004
-660,18.0,2,38,0,2.11,-,-,Australia,Nagpur,1,1,0,V Sehwag,India,2008
-662,14.0,2,38,0,2.71,-,-,Sri Lanka,Lord's,1,1,0,MM Ali,England,2016
-663,11.0,0,40,0,3.63,-,-,India,Kingston,1,1,0,KC Brathwaite,West Indies,2016
-665,14.0,2,42,0,3.0,-,-,West Indies,Adelaide,1,1,0,MJ North,Australia,2009
-669,12.0,1,44,0,3.66,-,-,Australia,Centurion,1,1,0,JP Duminy,South Africa,2014
-671,16.0,3,45,0,2.81,-,-,Australia,Bridgetown,1,1,0,CH Gayle,West Indies,2008
-676,24.0,4,48,0,2.0,-,-,England,Galle,1,1,0,UDU Chandana,Sri Lanka,2003
-678,21.0,6,49,0,2.33,-,-,Australia,Georgetown,1,1,0,MN Samuels,West Indies,2003
-679,14.0,4,51,0,3.64,-,-,West Indies,Chester-le-Street,1,1,0,GP Swann,England,2009
-684,14.0,2,54,0,3.85,-,-,Australia,Johannesburg,1,1,0,JP Duminy,South Africa,2009
-688,15.0,1,55,0,3.66,-,-,New Zealand,Kingston,1,1,0,MN Samuels,West Indies,2014
-690,17.0,2,57,0,3.35,-,-,South Africa,Hobart,1,1,0,NM Lyon,Australia,2016
-691,27.0,7,59,0,2.18,-,-,England,Bengaluru,1,1,0,Harbhajan Singh,India,2001
-692,12.0,0,59,0,4.91,-,-,India,Colombo (SSC),1,1,0,DM de Silva,Sri Lanka,2017
-694,19.0,2,61,0,3.21,-,-,Sri Lanka,Darwin,1,1,0,SK Warne,Australia,2004
-695,17.0,2,61,0,3.58,-,-,New Zealand,Cape Town,1,1,0,GC Smith,South Africa,2006
-696,16.0,1,61,0,3.81,-,-,West Indies,Mumbai,1,1,0,V Sehwag,India,2011
-697,18.0,0,62,0,3.44,-,-,England,Adelaide,1,1,0,MJ North,Australia,2010
-698,30.0,5,62,0,2.06,-,-,Australia,Kingston,1,1,0,KC Brathwaite,West Indies,2015
-699,16.0,4,64,0,4.0,-,-,Australia,Leeds,1,1,0,GP Swann,England,2009
-700,17.0,2,66,0,3.88,-,-,India,Melbourne,1,1,0,NM Lyon,Australia,2011
-701,13.0,0,67,0,5.15,-,-,England,Sydney,1,1,0,SPD Smith,Australia,2011
-702,20.0,3,68,0,3.4,-,-,India,Basseterre,1,1,0,MN Samuels,West Indies,2006
-703,18.0,1,69,0,3.83,-,-,South Africa,St John's,1,1,0,N Deonarine,West Indies,2005
-707,18.0,3,71,0,3.94,-,-,England,Melbourne,1,1,0,SPD Smith,Australia,2010
-711,26.0,7,75,0,2.88,-,-,Sri Lanka,Wellington,1,1,0,PJ Wiseman,New Zealand,2005
-712,12.0,0,76,0,6.33,-,-,India,Nottingham,1,1,0,GP Swann,England,2011
-714,24.0,3,78,0,3.25,-,-,South Africa,Bengaluru,1,1,0,N Chopra,India,2000
-715,28.0,1,78,0,2.78,-,-,Australia,Chennai,1,1,0,SR Tendulkar,India,2001
-717,15.0,2,78,0,5.2,-,-,India,Auckland,1,1,0,IS Sodhi,New Zealand,2014
-718,24.0,4,78,0,3.25,-,-,England,Centurion,1,1,0,DL Piedt,South Africa,2016
-719,31.0,5,79,0,2.54,-,-,Australia,Bridgetown,1,1,0,CH Gayle,West Indies,2003
-722,26.0,1,80,0,3.07,-,-,England,Port of Spain,1,1,0,CH Gayle,West Indies,2009
-723,23.0,3,80,0,3.47,-,-,Australia,Pallekele,1,1,0,S Prasanna,Sri Lanka,2011
-724,25.0,5,82,0,3.28,-,-,India,Sydney,1,1,0,SK Warne,Australia,2000
-725,25.0,2,85,0,3.4,-,-,South Africa,Bridgetown,1,1,0,S Shillingford,West Indies,2010
-726,26.0,5,85,0,3.26,-,-,West Indies,Birmingham,1,1,0,GP Swann,England,2012
-727,34.0,9,85,0,2.5,-,-,South Africa,Colombo (SSC),1,1,0,BAW Mendis,Sri Lanka,2014
-728,25.0,3,89,0,3.56,-,-,England,Mumbai,1,1,0,J Yadav,India,2016
-731,34.0,3,102,0,3.0,-,-,India,North Sound,1,1,0,RL Chase,West Indies,2016
-737,43.0,6,129,0,3.0,-,-,Australia,Bengaluru,1,1,0,A Kumble,India,2008
-739,38.0,8,131,0,3.44,-,-,Australia,Cardiff,1,1,0,GP Swann,England,2009
-741,31.0,2,134,0,4.32,-,-,New Zealand,Bridgetown,1,1,0,S Shillingford,West Indies,2014
-742,53.0,5,140,0,2.64,-,-,South Africa,Nagpur,1,1,0,A Mishra,India,2010
-743,52.0,10,151,0,2.9,-,-,South Africa,The Oval,1,1,0,GP Swann,England,2012
+627,10.0,3,12,0,1.2,1000,1000,New Zealand,Bridgetown,1,1,0,CH Gayle,West Indies,2002
+628,12.0,4,16,0,1.33,1000,1000,India,Georgetown,1,1,0,CL Hooper,West Indies,2002
+631,10.0,2,19,0,1.9,1000,1000,South Africa,Chennai,1,1,0,VVS Laxman,India,2008
+632,10.0,2,20,0,2.0,1000,1000,South Africa,Kolkata,1,1,0,V Sehwag,India,2010
+633,10.0,1,20,0,2.0,1000,1000,West Indies,Pallekele,1,1,0,TM Dilshan,Sri Lanka,2010
+634,12.0,4,22,0,1.83,1000,1000,India,Nottingham,1,1,0,JE Root,England,2014
+635,14.0,8,23,0,1.64,1000,1000,South Africa,Georgetown,1,1,0,CL Hooper,West Indies,2001
+636,13.0,4,23,0,1.76,1000,1000,South Africa,Port of Spain,1,1,0,CL Hooper,West Indies,2001
+638,13.0,6,25,0,1.92,1000,1000,South Africa,Georgetown,1,1,0,S Chanderpaul,West Indies,2005
+639,12.0,1,25,0,2.08,1000,1000,England,Galle,1,1,0,TM Dilshan,Sri Lanka,2012
+642,13.0,4,29,0,2.23,1000,1000,India,St John's,1,1,0,CL Hooper,West Indies,2002
+644,13.0,3,29,0,2.23,1000,1000,New Zealand,Port of Spain,1,1,0,CH Gayle,West Indies,2014
+645,10.0,1,30,0,3.0,1000,1000,India,Galle,1,1,0,TM Dilshan,Sri Lanka,2010
+646,12.0,3,30,0,2.5,1000,1000,England,Dunedin,1,1,0,KS Williamson,New Zealand,2013
+647,14.0,2,31,0,2.21,1000,1000,India,Basseterre,1,1,0,CH Gayle,West Indies,2006
+648,13.0,3,32,0,2.46,1000,1000,England,Bridgetown,1,1,0,CH Gayle,West Indies,2004
+649,14.0,4,32,0,2.28,1000,1000,Australia,Pallekele,1,1,0,TM Dilshan,Sri Lanka,2011
+650,10.0,2,33,0,3.3,1000,1000,South Africa,Bengaluru,1,1,0,SR Tendulkar,India,2000
+652,12.0,2,33,0,2.75,1000,1000,Australia,Kandy,1,1,0,KS Lokuarachchi,Sri Lanka,2004
+653,10.0,1,33,0,3.3,1000,1000,India,Gros Islet,1,1,0,KC Brathwaite,West Indies,2016
+654,14.0,2,35,0,2.5,1000,1000,Sri Lanka,Lord's,1,1,0,MP Vaughan,England,2002
+656,10.0,1,35,0,3.5,1000,1000,Australia,Cape Town,1,1,0,Imran Tahir,South Africa,2011
+657,13.0,1,35,0,2.69,1000,1000,South Africa,Wellington,1,1,0,KS Williamson,New Zealand,2012
+658,17.0,6,36,0,2.11,1000,1000,England,St John's,1,1,0,CH Gayle,West Indies,2004
+660,18.0,2,38,0,2.11,1000,1000,Australia,Nagpur,1,1,0,V Sehwag,India,2008
+662,14.0,2,38,0,2.71,1000,1000,Sri Lanka,Lord's,1,1,0,MM Ali,England,2016
+663,11.0,0,40,0,3.63,1000,1000,India,Kingston,1,1,0,KC Brathwaite,West Indies,2016
+665,14.0,2,42,0,3.0,1000,1000,West Indies,Adelaide,1,1,0,MJ North,Australia,2009
+669,12.0,1,44,0,3.66,1000,1000,Australia,Centurion,1,1,0,JP Duminy,South Africa,2014
+671,16.0,3,45,0,2.81,1000,1000,Australia,Bridgetown,1,1,0,CH Gayle,West Indies,2008
+676,24.0,4,48,0,2.0,1000,1000,England,Galle,1,1,0,UDU Chandana,Sri Lanka,2003
+678,21.0,6,49,0,2.33,1000,1000,Australia,Georgetown,1,1,0,MN Samuels,West Indies,2003
+679,14.0,4,51,0,3.64,1000,1000,West Indies,Chester-le-Street,1,1,0,GP Swann,England,2009
+684,14.0,2,54,0,3.85,1000,1000,Australia,Johannesburg,1,1,0,JP Duminy,South Africa,2009
+688,15.0,1,55,0,3.66,1000,1000,New Zealand,Kingston,1,1,0,MN Samuels,West Indies,2014
+690,17.0,2,57,0,3.35,1000,1000,South Africa,Hobart,1,1,0,NM Lyon,Australia,2016
+691,27.0,7,59,0,2.18,1000,1000,England,Bengaluru,1,1,0,Harbhajan Singh,India,2001
+692,12.0,0,59,0,4.91,1000,1000,India,Colombo (SSC),1,1,0,DM de Silva,Sri Lanka,2017
+694,19.0,2,61,0,3.21,1000,1000,Sri Lanka,Darwin,1,1,0,SK Warne,Australia,2004
+695,17.0,2,61,0,3.58,1000,1000,New Zealand,Cape Town,1,1,0,GC Smith,South Africa,2006
+696,16.0,1,61,0,3.81,1000,1000,West Indies,Mumbai,1,1,0,V Sehwag,India,2011
+697,18.0,0,62,0,3.44,1000,1000,England,Adelaide,1,1,0,MJ North,Australia,2010
+698,30.0,5,62,0,2.06,1000,1000,Australia,Kingston,1,1,0,KC Brathwaite,West Indies,2015
+699,16.0,4,64,0,4.0,1000,1000,Australia,Leeds,1,1,0,GP Swann,England,2009
+700,17.0,2,66,0,3.88,1000,1000,India,Melbourne,1,1,0,NM Lyon,Australia,2011
+701,13.0,0,67,0,5.15,1000,1000,England,Sydney,1,1,0,SPD Smith,Australia,2011
+702,20.0,3,68,0,3.4,1000,1000,India,Basseterre,1,1,0,MN Samuels,West Indies,2006
+703,18.0,1,69,0,3.83,1000,1000,South Africa,St John's,1,1,0,N Deonarine,West Indies,2005
+707,18.0,3,71,0,3.94,1000,1000,England,Melbourne,1,1,0,SPD Smith,Australia,2010
+711,26.0,7,75,0,2.88,1000,1000,Sri Lanka,Wellington,1,1,0,PJ Wiseman,New Zealand,2005
+712,12.0,0,76,0,6.33,1000,1000,India,Nottingham,1,1,0,GP Swann,England,2011
+714,24.0,3,78,0,3.25,1000,1000,South Africa,Bengaluru,1,1,0,N Chopra,India,2000
+715,28.0,1,78,0,2.78,1000,1000,Australia,Chennai,1,1,0,SR Tendulkar,India,2001
+717,15.0,2,78,0,5.2,1000,1000,India,Auckland,1,1,0,IS Sodhi,New Zealand,2014
+718,24.0,4,78,0,3.25,1000,1000,England,Centurion,1,1,0,DL Piedt,South Africa,2016
+719,31.0,5,79,0,2.54,1000,1000,Australia,Bridgetown,1,1,0,CH Gayle,West Indies,2003
+722,26.0,1,80,0,3.07,1000,1000,England,Port of Spain,1,1,0,CH Gayle,West Indies,2009
+723,23.0,3,80,0,3.47,1000,1000,Australia,Pallekele,1,1,0,S Prasanna,Sri Lanka,2011
+724,25.0,5,82,0,3.28,1000,1000,India,Sydney,1,1,0,SK Warne,Australia,2000
+725,25.0,2,85,0,3.4,1000,1000,South Africa,Bridgetown,1,1,0,S Shillingford,West Indies,2010
+726,26.0,5,85,0,3.26,1000,1000,West Indies,Birmingham,1,1,0,GP Swann,England,2012
+727,34.0,9,85,0,2.5,1000,1000,South Africa,Colombo (SSC),1,1,0,BAW Mendis,Sri Lanka,2014
+728,25.0,3,89,0,3.56,1000,1000,England,Mumbai,1,1,0,J Yadav,India,2016
+731,34.0,3,102,0,3.0,1000,1000,India,North Sound,1,1,0,RL Chase,West Indies,2016
+737,43.0,6,129,0,3.0,1000,1000,Australia,Bengaluru,1,1,0,A Kumble,India,2008
+739,38.0,8,131,0,3.44,1000,1000,Australia,Cardiff,1,1,0,GP Swann,England,2009
+741,31.0,2,134,0,4.32,1000,1000,New Zealand,Bridgetown,1,1,0,S Shillingford,West Indies,2014
+742,53.0,5,140,0,2.64,1000,1000,South Africa,Nagpur,1,1,0,A Mishra,India,2010
+743,52.0,10,151,0,2.9,1000,1000,South Africa,The Oval,1,1,0,GP Swann,England,2012
 0,57.2,8,191,14,3.33,13.64,24.5,West Indies,Colombo (SSC),1,0,1,WPUJC Vaas,Sri Lanka,2001
 1,58.2,9,159,11,2.72,14.45,31.8,South Africa,Perth,1,0,1,MG Johnson,Australia,2008
 2,27.5,7,80,10,2.87,8,16.7,West Indies,Wellington,1,0,1,TA Boult,New Zealand,2013
@@ -2060,34 +2060,34 @@
 265,29.0,1,130,1,4.48,130,174,England,Adelaide,1,0,1,DE Bollinger,Australia,2010
 267,28.0,2,157,1,5.6,157,168,New Zealand,Perth,1,0,1,MG Johnson,Australia,2015
 269,64.0,12,191,1,2.98,191,384,India,St John's,1,0,1,IDR Bradshaw,West Indies,2006
-270,12.0,6,16,0,1.33,-,-,South Africa,Galle,1,0,1,WPUJC Vaas,Sri Lanka,2000
-272,12.0,4,25,0,2.08,-,-,India,Galle,1,0,1,PDRL Perera,Sri Lanka,2001
-274,10.0,2,35,0,3.5,-,-,England,Kandy,1,0,1,DNT Zoysa,Sri Lanka,2001
-276,18.0,7,37,0,2.05,-,-,England,Galle,1,0,1,WPUJC Vaas,Sri Lanka,2007
-277,15.0,4,37,0,2.46,-,-,England,Mumbai,1,0,1,Z Khan,India,2012
-281,12.0,1,44,0,3.66,-,-,India,Colombo (PSS),1,0,1,WPUJC Vaas,Sri Lanka,2008
-283,24.0,9,50,0,2.08,-,-,New Zealand,Hyderabad (Deccan),1,0,1,Z Khan,India,2012
-285,12.0,0,54,0,4.5,-,-,Australia,Colombo (SSC),1,0,1,DNT Zoysa,Sri Lanka,2004
-286,29.0,7,59,0,2.03,-,-,South Africa,Kanpur,1,0,1,Z Khan,India,2004
-287,15.0,2,61,0,4.06,-,-,West Indies,Dunedin,1,0,1,JEC Franklin,New Zealand,2008
-290,15.0,1,66,0,4.4,-,-,West Indies,Napier,1,0,1,JEC Franklin,New Zealand,2006
-291,16.0,2,66,0,4.12,-,-,India,Wellington,1,0,1,CJ Anderson,New Zealand,2014
-292,24.0,6,68,0,2.83,-,-,Australia,Chennai,1,0,1,IK Pathan,India,2004
-295,23.0,3,77,0,3.34,-,-,England,Port of Spain,1,0,1,BP Nash,West Indies,2009
-296,23.3,1,78,0,3.31,-,-,New Zealand,Colombo (SSC),1,0,1,T Thushara,Sri Lanka,2009
-297,21.0,4,79,0,3.76,-,-,West Indies,Galle,1,0,1,T Thushara,Sri Lanka,2010
-298,21.0,2,81,0,3.85,-,-,South Africa,Ahmedabad,1,0,1,RP Singh,India,2008
-300,36.0,9,82,0,2.27,-,-,India,Napier,1,0,1,JEC Franklin,New Zealand,2009
-301,17.0,1,83,0,4.88,-,-,India,Brisbane,1,0,1,MA Starc,Australia,2014
-302,21.2,3,85,0,3.98,-,-,South Africa,Ahmedabad,1,0,1,IK Pathan,India,2008
-303,23.0,5,86,0,3.73,-,-,Australia,Delhi,1,0,1,Z Khan,India,2008
-304,15.0,0,88,0,5.86,-,-,India,Colombo (PSS),1,0,1,UWMBCA Welegedara,Sri Lanka,2010
-305,26.0,8,95,0,3.65,-,-,New Zealand,Mohali,1,0,1,Z Khan,India,2003
-306,37.0,13,97,0,2.62,-,-,India,Sydney,1,0,1,NW Bracken,Australia,2004
-307,23.0,1,98,0,4.26,-,-,India,Hamilton,1,0,1,JEC Franklin,New Zealand,2009
-310,23.0,1,111,0,4.82,-,-,South Africa,Chennai,1,0,1,RP Singh,India,2008
-311,25.0,2,123,0,4.92,-,-,Australia,Port of Spain,1,0,1,PT Collins,West Indies,2003
-312,42.0,7,170,0,4.04,-,-,England,Brisbane,1,0,1,MG Johnson,Australia,2010
+270,12.0,6,16,0,1.33,1000,1000,South Africa,Galle,1,0,1,WPUJC Vaas,Sri Lanka,2000
+272,12.0,4,25,0,2.08,1000,1000,India,Galle,1,0,1,PDRL Perera,Sri Lanka,2001
+274,10.0,2,35,0,3.5,1000,1000,England,Kandy,1,0,1,DNT Zoysa,Sri Lanka,2001
+276,18.0,7,37,0,2.05,1000,1000,England,Galle,1,0,1,WPUJC Vaas,Sri Lanka,2007
+277,15.0,4,37,0,2.46,1000,1000,England,Mumbai,1,0,1,Z Khan,India,2012
+281,12.0,1,44,0,3.66,1000,1000,India,Colombo (PSS),1,0,1,WPUJC Vaas,Sri Lanka,2008
+283,24.0,9,50,0,2.08,1000,1000,New Zealand,Hyderabad (Deccan),1,0,1,Z Khan,India,2012
+285,12.0,0,54,0,4.5,1000,1000,Australia,Colombo (SSC),1,0,1,DNT Zoysa,Sri Lanka,2004
+286,29.0,7,59,0,2.03,1000,1000,South Africa,Kanpur,1,0,1,Z Khan,India,2004
+287,15.0,2,61,0,4.06,1000,1000,West Indies,Dunedin,1,0,1,JEC Franklin,New Zealand,2008
+290,15.0,1,66,0,4.4,1000,1000,West Indies,Napier,1,0,1,JEC Franklin,New Zealand,2006
+291,16.0,2,66,0,4.12,1000,1000,India,Wellington,1,0,1,CJ Anderson,New Zealand,2014
+292,24.0,6,68,0,2.83,1000,1000,Australia,Chennai,1,0,1,IK Pathan,India,2004
+295,23.0,3,77,0,3.34,1000,1000,England,Port of Spain,1,0,1,BP Nash,West Indies,2009
+296,23.3,1,78,0,3.31,1000,1000,New Zealand,Colombo (SSC),1,0,1,T Thushara,Sri Lanka,2009
+297,21.0,4,79,0,3.76,1000,1000,West Indies,Galle,1,0,1,T Thushara,Sri Lanka,2010
+298,21.0,2,81,0,3.85,1000,1000,South Africa,Ahmedabad,1,0,1,RP Singh,India,2008
+300,36.0,9,82,0,2.27,1000,1000,India,Napier,1,0,1,JEC Franklin,New Zealand,2009
+301,17.0,1,83,0,4.88,1000,1000,India,Brisbane,1,0,1,MA Starc,Australia,2014
+302,21.2,3,85,0,3.98,1000,1000,South Africa,Ahmedabad,1,0,1,IK Pathan,India,2008
+303,23.0,5,86,0,3.73,1000,1000,Australia,Delhi,1,0,1,Z Khan,India,2008
+304,15.0,0,88,0,5.86,1000,1000,India,Colombo (PSS),1,0,1,UWMBCA Welegedara,Sri Lanka,2010
+305,26.0,8,95,0,3.65,1000,1000,New Zealand,Mohali,1,0,1,Z Khan,India,2003
+306,37.0,13,97,0,2.62,1000,1000,India,Sydney,1,0,1,NW Bracken,Australia,2004
+307,23.0,1,98,0,4.26,1000,1000,India,Hamilton,1,0,1,JEC Franklin,New Zealand,2009
+310,23.0,1,111,0,4.82,1000,1000,South Africa,Chennai,1,0,1,RP Singh,India,2008
+311,25.0,2,123,0,4.92,1000,1000,Australia,Port of Spain,1,0,1,PT Collins,West Indies,2003
+312,42.0,7,170,0,4.04,1000,1000,England,Brisbane,1,0,1,MG Johnson,Australia,2010
 1,56.2,14,145,13,2.57,11.15,26,Australia,Colombo (SSC),1,0,0,HMRKB Herath,Sri Lanka,2016
 2,60.0,19,149,12,2.48,12.41,30,Australia,Auckland,1,0,0,DL Vettori,New Zealand,2000
 4,57.0,14,171,12,3.0,14.25,28.5,England,Galle,1,0,0,HMRKB Herath,Sri Lanka,2012
@@ -2315,33 +2315,33 @@
 394,44.0,5,163,1,3.7,163,264,England,Durban,1,0,0,N Boje,South Africa,2004
 395,39.0,2,174,1,4.46,174,234,Australia,The Oval,1,0,0,PCR Tufnell,England,2001
 396,58.0,7,185,1,3.18,185,348,South Africa,Basseterre,1,0,0,SJ Benn,West Indies,2010
-398,11.0,4,21,0,1.9,+AC0-,+AC0-,New Zealand,Nottingham,1,0,0,MS Panesar,England,2008
-399,10.0,3,24,0,2.4,+AC0-,+AC0-,South Africa,Nottingham,1,0,0,AF Giles,England,2003
-407,14.0,4,33,0,2.35,+AC0-,+AC0-,India,Port Elizabeth,1,0,0,N Boje,South Africa,2001
-408,18.0,5,34,0,1.88,+AC0-,+AC0-,South Africa,Adelaide,1,0,0,MJ Clarke,Australia,2012
-411,13.0,2,38,0,2.92,+AC0-,+AC0-,India,Perth,1,0,0,MJ Clarke,Australia,2008
-412,15.0,2,39,0,2.6,+AC0-,+AC0-,England,Wellington,1,0,0,DL Vettori,New Zealand,2008
-415,19.0,4,47,0,2.47,+AC0-,+AC0-,Australia,Auckland,1,0,0,DL Vettori,New Zealand,2005
-417,14.0,1,52,0,3.71,+AC0-,+AC0-,West Indies,Colombo (SSC),1,0,0,HMRKB Herath,Sri Lanka,2005
-418,17.0,2,53,0,3.11,+AC0-,+AC0-,England,Adelaide,1,0,0,MJ Clarke,Australia,2006
-420,11.0,1,56,0,5.09,+AC0-,+AC0-,Australia,Lord's,1,0,0,AF Giles,England,2005
-421,19.0,7,59,0,3.1,+AC0-,+AC0-,England,Centurion,1,0,0,N Boje,South Africa,2005
-425,16.0,1,64,0,4.0,+AC0-,+AC0-,Sri Lanka,Ahmedabad,1,0,0,Yuvraj Singh,India,2009
-426,19.0,1,67,0,3.52,+AC0-,+AC0-,New Zealand,Leeds,1,0,0,AF Giles,England,2004
-427,18.0,1,67,0,3.72,+AC0-,+AC0-,South Africa,Bridgetown,1,0,0,RO Hinds,West Indies,2005
-428,19.0,0,70,0,3.68,+AC0-,+AC0-,Australia,Colombo (SSC),1,0,0,PADLR Sandakan,Sri Lanka,2016
-429,24.0,4,73,0,3.04,+AC0-,+AC0-,South Africa,Auckland,1,0,0,DL Vettori,New Zealand,2004
-430,13.0,2,76,0,5.84,+AC0-,+AC0-,West Indies,Johannesburg,1,0,0,RJ Peterson,South Africa,2003
-431,23.0,1,76,0,3.3,+AC0-,+AC0-,Australia,The Oval,1,0,0,AF Giles,England,2005
-433,17.0,1,84,0,4.94,+AC0-,+AC0-,India,Sydney,1,0,0,SM Katich,Australia,2004
-435,29.0,4,89,0,3.06,+AC0-,+AC0-,New Zealand,Cape Town,1,0,0,N Boje,South Africa,2006
-436,22.0,3,97,0,4.4,+AC0-,+AC0-,England,Christchurch,1,0,0,DL Vettori,New Zealand,2002
-437,42.0,11,98,0,2.33,+AC0-,+AC0-,South Africa,Wellington,1,0,0,DL Vettori,New Zealand,2012
-439,26.0,2,101,0,3.88,+AC0-,+AC0-,England,Johannesburg,1,0,0,N Boje,South Africa,2005
-442,28.0,3,118,0,4.21,+AC0-,+AC0-,England,Bridgetown,1,0,0,RO Hinds,West Indies,2009
-444,44.0,8,129,0,2.93,+AC0-,+AC0-,South Africa,Wellington,1,0,0,DL Vettori,New Zealand,2004
-445,65.0,28,130,0,2.0,+AC0-,+AC0-,England,Auckland,1,0,0,BP Martin,New Zealand,2013
-446,41.0,4,173,0,4.21,+AC0-,+AC0-,West Indies,Cape Town,1,0,0,PR Adams,South Africa,2004
+398,11.0,4,21,0,1.9,1000,1000,New Zealand,Nottingham,1,0,0,MS Panesar,England,2008
+399,10.0,3,24,0,2.4,1000,1000,South Africa,Nottingham,1,0,0,AF Giles,England,2003
+407,14.0,4,33,0,2.35,1000,1000,India,Port Elizabeth,1,0,0,N Boje,South Africa,2001
+408,18.0,5,34,0,1.88,1000,1000,South Africa,Adelaide,1,0,0,MJ Clarke,Australia,2012
+411,13.0,2,38,0,2.92,1000,1000,India,Perth,1,0,0,MJ Clarke,Australia,2008
+412,15.0,2,39,0,2.6,1000,1000,England,Wellington,1,0,0,DL Vettori,New Zealand,2008
+415,19.0,4,47,0,2.47,1000,1000,Australia,Auckland,1,0,0,DL Vettori,New Zealand,2005
+417,14.0,1,52,0,3.71,1000,1000,West Indies,Colombo (SSC),1,0,0,HMRKB Herath,Sri Lanka,2005
+418,17.0,2,53,0,3.11,1000,1000,England,Adelaide,1,0,0,MJ Clarke,Australia,2006
+420,11.0,1,56,0,5.09,1000,1000,Australia,Lord's,1,0,0,AF Giles,England,2005
+421,19.0,7,59,0,3.1,1000,1000,England,Centurion,1,0,0,N Boje,South Africa,2005
+425,16.0,1,64,0,4.0,1000,1000,Sri Lanka,Ahmedabad,1,0,0,Yuvraj Singh,India,2009
+426,19.0,1,67,0,3.52,1000,1000,New Zealand,Leeds,1,0,0,AF Giles,England,2004
+427,18.0,1,67,0,3.72,1000,1000,South Africa,Bridgetown,1,0,0,RO Hinds,West Indies,2005
+428,19.0,0,70,0,3.68,1000,1000,Australia,Colombo (SSC),1,0,0,PADLR Sandakan,Sri Lanka,2016
+429,24.0,4,73,0,3.04,1000,1000,South Africa,Auckland,1,0,0,DL Vettori,New Zealand,2004
+430,13.0,2,76,0,5.84,1000,1000,West Indies,Johannesburg,1,0,0,RJ Peterson,South Africa,2003
+431,23.0,1,76,0,3.3,1000,1000,Australia,The Oval,1,0,0,AF Giles,England,2005
+433,17.0,1,84,0,4.94,1000,1000,India,Sydney,1,0,0,SM Katich,Australia,2004
+435,29.0,4,89,0,3.06,1000,1000,New Zealand,Cape Town,1,0,0,N Boje,South Africa,2006
+436,22.0,3,97,0,4.4,1000,1000,England,Christchurch,1,0,0,DL Vettori,New Zealand,2002
+437,42.0,11,98,0,2.33,1000,1000,South Africa,Wellington,1,0,0,DL Vettori,New Zealand,2012
+439,26.0,2,101,0,3.88,1000,1000,England,Johannesburg,1,0,0,N Boje,South Africa,2005
+442,28.0,3,118,0,4.21,1000,1000,England,Bridgetown,1,0,0,RO Hinds,West Indies,2009
+444,44.0,8,129,0,2.93,1000,1000,South Africa,Wellington,1,0,0,DL Vettori,New Zealand,2004
+445,65.0,28,130,0,2.0,1000,1000,England,Auckland,1,0,0,BP Martin,New Zealand,2013
+446,41.0,4,173,0,4.21,1000,1000,West Indies,Cape Town,1,0,0,PR Adams,South Africa,2004
 0,47.5,10,132,13,2.75,10.15,22,West Indies,Port of Spain,0,1,1,M Ntini,South Africa,2005
 1,52.3,7,205,12,3.9,17.08,26.2,South Africa,Johannesburg,0,1,1,MJ Hoggard,England,2005
 4,37.4,6,88,10,2.33,8.8,22.6,West Indies,Bridgetown,0,1,1,A Nel,South Africa,2005
@@ -3602,194 +3602,194 @@
 1730,41.0,6,168,1,4.09,168,246,Australia,Sydney,0,1,1,M Ntini,South Africa,2009
 1731,42.1,5,177,1,4.19,177,253,Australia,Brisbane,0,1,1,SJ Harmison,England,2006
 1732,43.0,7,182,1,4.23,182,258,England,The Oval,0,1,1,B Lee,Australia,2005
-1734,15.0,11,11,0,0.73,-,-,England,Nottingham,0,1,1,SR Watson,Australia,2013
-1736,12.0,5,14,0,1.16,-,-,West Indies,Port of Spain,0,1,1,SR Watson,Australia,2012
-1737,12.0,5,18,0,1.5,-,-,Australia,Perth,0,1,1,NJ Astle,New Zealand,2001
-1739,13.0,4,22,0,1.69,-,-,New Zealand,Wellington,0,1,1,MM Patel,India,2009
-1741,11.0,7,25,0,2.27,-,-,New Zealand,Hamilton,0,1,1,AD Mathews,Sri Lanka,2015
-1743,15.0,7,26,0,1.73,-,-,England,Manchester,0,1,1,SR Watson,Australia,2013
-1744,13.0,5,26,0,2.0,-,-,South Africa,Port Elizabeth,0,1,1,AD Mathews,Sri Lanka,2016
-1746,12.0,3,27,0,2.25,-,-,Sri Lanka,Colombo (SSC),0,1,1,Mohammed Shami,India,2017
-1747,13.0,5,29,0,2.23,-,-,India,Mumbai,0,1,1,MS Kasprowicz,Australia,2004
-1748,10.0,4,29,0,2.9,-,-,Australia,Brisbane,0,1,1,GD Elliott,New Zealand,2008
-1749,11.0,3,29,0,2.63,-,-,New Zealand,Wellington,0,1,1,AD Mathews,Sri Lanka,2015
-1750,14.0,7,30,0,2.14,-,-,West Indies,Bridgetown,0,1,1,AA Donald,South Africa,2001
-1751,12.0,3,30,0,2.5,-,-,Australia,Brisbane,0,1,1,JH Kallis,South Africa,2012
-1752,11.0,3,30,0,2.72,-,-,India,Mohali,0,1,1,DW Steyn,South Africa,2015
-1753,26.0,15,31,0,1.19,-,-,South Africa,Johannesburg,0,1,1,NJ Astle,New Zealand,2000
-1756,11.0,2,31,0,2.81,-,-,England,Leeds,0,1,1,AD Mathews,Sri Lanka,2016
-1757,13.0,5,31,0,2.38,-,-,England,Lord's,0,1,1,AD Mathews,Sri Lanka,2016
-1758,10.0,2,32,0,3.2,-,-,India,Mumbai,0,1,1,BA Stokes,England,2016
-1759,10.0,3,33,0,3.3,-,-,West Indies,Bridgetown,0,1,1,L Klusener,South Africa,2001
-1761,10.0,2,33,0,3.3,-,-,South Africa,Cape Town,0,1,1,SB Styris,New Zealand,2006
-1767,13.0,1,36,0,2.76,-,-,England,Manchester,0,1,1,JDP Oram,New Zealand,2008
-1769,13.0,5,37,0,2.84,-,-,England,Lord's,0,1,1,SB Styris,New Zealand,2004
-1770,10.0,0,37,0,3.7,-,-,England,Nottingham,0,1,1,STR Binny,India,2014
-1771,15.0,4,38,0,2.53,-,-,Sri Lanka,Galle,0,1,1,L Klusener,South Africa,2000
-1772,13.0,2,38,0,2.92,-,-,South Africa,Bloemfontein,0,1,1,CD McMillan,New Zealand,2000
-1773,11.0,2,39,0,3.54,-,-,England,Lord's,0,1,1,AD Mathews,Sri Lanka,2014
-1775,21.0,10,40,0,1.9,-,-,West Indies,Port of Spain,0,1,1,L Klusener,South Africa,2001
-1776,15.0,4,40,0,2.66,-,-,West Indies,St George's,0,1,1,CZ Harris,New Zealand,2002
-1777,10.0,1,40,0,4.0,-,-,Australia,Perth,0,1,1,MA Butcher,England,2002
-1778,13.0,4,40,0,3.07,-,-,West Indies,Georgetown,0,1,1,AJ Bichel,Australia,2003
-1779,12.0,1,40,0,3.33,-,-,India,Kolkata,0,1,1,JH Kallis,South Africa,2010
-1782,17.0,5,41,0,2.41,-,-,South Africa,Johannesburg,0,1,1,CD McMillan,New Zealand,2000
-1783,12.0,1,41,0,3.41,-,-,India,Kolkata,0,1,1,RT Ponting,Australia,2001
-1785,11.0,2,41,0,3.72,-,-,Sri Lanka,Galle,0,1,1,DJG Sammy,West Indies,2010
-1786,12.0,1,41,0,3.41,-,-,Australia,Brisbane,0,1,1,PD Collingwood,England,2010
-1787,15.0,3,41,0,2.73,-,-,Australia,Hobart,0,1,1,AD Mathews,Sri Lanka,2012
-1788,17.0,3,41,0,2.41,-,-,South Africa,Cape Town,0,1,1,AD Mathews,Sri Lanka,2017
-1791,11.0,3,42,0,3.81,-,-,England,Birmingham,0,1,1,MF Maharoof,Sri Lanka,2006
-1793,12.3,3,44,0,3.52,-,-,Sri Lanka,Colombo (SSC),0,1,1,SC Ganguly,India,2001
-1794,12.0,0,44,0,3.66,-,-,West Indies,St John's,0,1,1,SC Ganguly,India,2002
-1795,10.0,0,44,0,4.4,-,-,South Africa,Cape Town,0,1,1,SR Watson,Australia,2011
-1796,12.0,2,44,0,3.66,-,-,West Indies,Kingston,0,1,1,UT Yadav,India,2016
-1799,21.0,4,45,0,2.14,-,-,India,Nagpur,0,1,1,MS Kasprowicz,Australia,2004
-1800,13.0,2,45,0,3.46,-,-,England,Birmingham,0,1,1,KMDN Kulasekara,Sri Lanka,2006
-1801,21.0,7,45,0,2.14,-,-,India,Hyderabad (Deccan),0,1,1,MC Henriques,Australia,2013
-1802,10.0,0,45,0,4.5,-,-,England,Lord's,0,1,1,STR Binny,India,2014
-1803,10.0,1,45,0,4.5,-,-,Sri Lanka,Colombo (SSC),0,1,1,MR Marsh,Australia,2016
-1804,30.0,13,46,0,1.53,-,-,Sri Lanka,Galle,0,1,1,AR Caddick,England,2001
-1806,15.0,2,47,0,3.13,-,-,India,Ahmedabad,0,1,1,HK Bennett,New Zealand,2010
-1807,12.0,0,47,0,3.91,-,-,South Africa,Cape Town,0,1,1,AD Mathews,Sri Lanka,2012
-1808,13.0,3,48,0,3.69,-,-,Sri Lanka,Colombo (SSC),0,1,1,JH Kallis,South Africa,2000
-1809,11.0,2,48,0,4.36,-,-,England,Leeds,0,1,1,RD King,West Indies,2000
-1811,19.0,5,48,0,2.52,-,-,Sri Lanka,Colombo (SSC),0,1,1,BA Williams,Australia,2004
-1813,21.0,4,48,0,2.28,-,-,India,Mohali,0,1,1,JM Anderson,England,2016
-1815,20.0,4,49,0,2.45,-,-,Sri Lanka,Galle,0,1,1,MJ Hoggard,England,2003
-1816,17.0,2,49,0,2.88,-,-,India,Kanpur,0,1,1,AD Mathews,Sri Lanka,2009
-1817,13.0,3,49,0,3.76,-,-,Sri Lanka,Colombo (SSC),0,1,1,STR Binny,India,2015
-1818,17.0,4,49,0,2.88,-,-,New Zealand,Christchurch,0,1,1,MR Marsh,Australia,2016
-1819,13.0,2,50,0,3.84,-,-,South Africa,Durban,0,1,1,WW Hinds,West Indies,2003
-1820,14.0,4,50,0,3.57,-,-,England,The Oval,0,1,1,DR Smith,West Indies,2004
-1822,16.0,1,51,0,3.18,-,-,West Indies,Bridgetown,0,1,1,PD Collingwood,England,2009
-1825,13.0,2,52,0,4.0,-,-,Australia,Melbourne,0,1,1,MA Butcher,England,2002
-1826,16.0,3,52,0,3.25,-,-,Sri Lanka,Galle,0,1,1,JH Kallis,South Africa,2004
-1827,14.0,1,52,0,3.71,-,-,Australia,Adelaide,0,1,1,R Rampaul,West Indies,2009
-1828,12.0,1,52,0,4.33,-,-,India,Kolkata,0,1,1,DJG Sammy,West Indies,2013
-1830,10.0,0,53,0,5.3,-,-,India,Mumbai,0,1,1,L Klusener,South Africa,2000
-1833,16.0,4,53,0,3.31,-,-,West Indies,Georgetown,0,1,1,AJ Hall,South Africa,2005
-1834,11.0,0,53,0,4.81,-,-,Australia,Sydney,0,1,1,KTGD Prasad,Sri Lanka,2013
-1835,18.0,1,53,0,2.94,-,-,India,Indore,0,1,1,JDS Neesham,New Zealand,2016
-1839,17.0,3,55,0,3.23,-,-,Australia,Melbourne,0,1,1,JH Kallis,South Africa,2001
-1840,24.0,7,55,0,2.29,-,-,Australia,Adelaide,0,1,1,JDP Oram,New Zealand,2004
-1841,19.2,5,56,0,2.89,-,-,England,The Oval,0,1,1,A Nel,South Africa,2008
-1842,21.0,7,56,0,2.66,-,-,Sri Lanka,Colombo (SSC),0,1,1,JDP Oram,New Zealand,2009
-1845,17.0,5,57,0,3.35,-,-,England,Lord's,0,1,1,MF Maharoof,Sri Lanka,2011
-1846,31.0,6,57,0,1.83,-,-,India,Rajkot,0,1,1,CR Woakes,England,2016
-1847,27.0,10,57,0,2.11,-,-,New Zealand,Wellington,0,1,1,VD Philander,South Africa,2017
-1848,12.0,0,58,0,4.83,-,-,England,The Oval,0,1,1,STR Binny,India,2014
-1849,10.0,0,59,0,5.9,-,-,Australia,Perth,0,1,1,SI Mahmood,England,2006
-1850,16.0,2,59,0,3.68,-,-,England,Lord's,0,1,1,TG Southee,New Zealand,2008
-1851,19.0,4,60,0,3.15,-,-,South Africa,Johannesburg,0,1,1,DR Tuffey,New Zealand,2000
-1852,12.0,1,60,0,5.0,-,-,India,Mumbai,0,1,1,SCJ Broad,England,2012
-1858,20.0,7,62,0,3.1,-,-,South Africa,Cape Town,0,1,1,CS Martin,New Zealand,2006
-1859,21.0,3,62,0,2.95,-,-,West Indies,Gros Islet,0,1,1,VRV Singh,India,2006
-1862,20.0,5,63,0,3.15,-,-,India,Mumbai,0,1,1,JM Anderson,England,2016
-1863,19.0,7,64,0,3.36,-,-,Australia,Adelaide,0,1,1,M Ntini,South Africa,2001
-1864,36.0,11,64,0,1.77,-,-,West Indies,Bridgetown,0,1,1,GD McGrath,Australia,2003
-1865,26.0,10,65,0,2.5,-,-,Sri Lanka,Galle,0,1,1,VD Philander,South Africa,2014
-1867,13.0,0,66,0,5.07,-,-,West Indies,Bridgetown,0,1,1,RS Bopara,England,2009
-1869,18.0,4,67,0,3.72,-,-,South Africa,Johannesburg,0,1,1,VRV Singh,India,2006
-1870,16.0,1,67,0,4.18,-,-,Sri Lanka,Galle,0,1,1,DAJ Bracewell,New Zealand,2012
-1872,18.0,3,68,0,3.77,-,-,West Indies,St John's,0,1,1,ME Trescothick,England,2004
-1874,20.0,2,68,0,3.4,-,-,England,Chester-le-Street,0,1,1,JE Taylor,West Indies,2009
-1878,26.0,5,69,0,2.65,-,-,India,Nagpur,0,1,1,TT Bresnan,England,2012
-1879,14.0,3,70,0,5.0,-,-,West Indies,Georgetown,0,1,1,JH Kallis,South Africa,2005
-1880,24.0,7,70,0,2.91,-,-,West Indies,Port of Spain,0,1,1,JH Kallis,South Africa,2005
-1881,20.0,3,70,0,3.5,-,-,England,Lord's,0,1,1,JH Kallis,South Africa,2008
-1882,12.0,2,71,0,5.91,-,-,England,Birmingham,0,1,1,B Lee,Australia,2001
-1885,14.0,0,71,0,5.07,-,-,India,Chennai,0,1,1,JH Kallis,South Africa,2008
-1886,24.0,3,71,0,2.95,-,-,India,Mohali,0,1,1,SR Watson,Australia,2008
-1888,33.0,7,72,0,2.18,-,-,Australia,Brisbane,0,1,1,SCJ Broad,England,2010
-1889,19.0,2,73,0,3.84,-,-,India,Ahmedabad,0,1,1,TT Bresnan,England,2012
-1890,15.0,1,74,0,4.93,-,-,Australia,Hobart,0,1,1,DR Tuffey,New Zealand,2001
-1892,25.0,4,74,0,2.96,-,-,India,Chennai,0,1,1,GD McGrath,Australia,2004
-1895,28.0,7,74,0,2.64,-,-,England,The Oval,0,1,1,PM Siddle,Australia,2013
-1896,18.0,1,75,0,4.16,-,-,Australia,Adelaide,0,1,1,MI Black,West Indies,2000
-1898,24.0,5,75,0,3.12,-,-,England,Lord's,0,1,1,LS Baker,West Indies,2009
-1899,24.0,3,75,0,3.12,-,-,Australia,Hobart,0,1,1,JO Holder,West Indies,2015
-1900,19.0,2,76,0,4.0,-,-,Australia,Perth,0,1,1,A Flintoff,England,2006
-1901,25.0,4,76,0,3.04,-,-,India,Chennai,0,1,1,M Morkel,South Africa,2008
-1903,22.0,2,78,0,3.54,-,-,Sri Lanka,Colombo (PSS),0,1,1,A Mithun,India,2010
-1904,25.0,5,79,0,3.16,-,-,Australia,Brisbane,0,1,1,NAM McLean,West Indies,2000
-1905,24.0,5,79,0,3.29,-,-,India,Hyderabad (Deccan),0,1,1,BJ Arnel,New Zealand,2010
-1906,33.0,7,79,0,2.39,-,-,New Zealand,Hamilton,0,1,1,VD Philander,South Africa,2017
-1907,34.0,11,80,0,2.35,-,-,India,Mohali,0,1,1,A Flintoff,England,2001
-1909,24.0,5,81,0,3.37,-,-,England,Cardiff,0,1,1,NLTC Perera,Sri Lanka,2011
-1910,30.0,8,81,0,2.7,-,-,South Africa,Johannesburg,0,1,1,RAS Lakmal,Sri Lanka,2017
-1911,45.0,19,82,0,1.82,-,-,West Indies,St John's,0,1,1,J Srinath,India,2002
-1913,18.0,2,82,0,4.55,-,-,West Indies,St John's,0,1,1,MJ Hoggard,England,2004
-1914,23.0,4,82,0,3.56,-,-,Australia,Hobart,0,1,1,MF Maharoof,Sri Lanka,2007
-1915,20.0,3,83,0,4.15,-,-,England,Manchester,0,1,1,FA Rose,West Indies,2000
-1917,35.0,11,84,0,2.4,-,-,West Indies,Bridgetown,0,1,1,SM Pollock,South Africa,2001
-1918,32.0,7,85,0,2.65,-,-,West Indies,Bridgetown,0,1,1,J Srinath,India,2002
-1919,24.0,5,85,0,3.54,-,-,Sri Lanka,Colombo (SSC),0,1,1,JM Anderson,England,2003
-1920,25.0,3,85,0,3.4,-,-,New Zealand,Dunedin,0,1,1,LS Baker,West Indies,2008
-1921,32.0,6,85,0,2.65,-,-,Sri Lanka,Colombo (SSC),0,1,1,JR Hazlewood,Australia,2016
-1926,24.0,7,86,0,3.58,-,-,India,Mohali,0,1,1,CR Woakes,England,2016
-1929,26.5,5,89,0,3.31,-,-,South Africa,Johannesburg,0,1,1,SJ Harmison,England,2005
-1930,25.0,3,89,0,3.56,-,-,England,Lord's,0,1,1,KMDN Kulasekara,Sri Lanka,2006
-1932,27.0,8,91,0,3.37,-,-,New Zealand,Hamilton,0,1,1,A Nel,South Africa,2004
-1933,26.4,3,92,0,3.45,-,-,South Africa,Cape Town,0,1,1,N Pradeep,Sri Lanka,2017
-1934,30.0,6,93,0,3.1,-,-,Australia,Brisbane,0,1,1,DJ Nash,New Zealand,2001
-1935,22.0,4,93,0,4.22,-,-,New Zealand,Auckland,0,1,1,DJ Terbrugge,South Africa,2004
-1936,23.0,2,93,0,4.04,-,-,India,Chennai,0,1,1,JT Ball,England,2016
-1938,19.0,3,95,0,5.0,-,-,Australia,Sydney,0,1,1,AB Agarkar,India,2000
-1939,20.0,2,95,0,4.75,-,-,Australia,Adelaide,0,1,1,AR Caddick,England,2002
-1942,26.0,4,95,0,3.65,-,-,West Indies,Port of Spain,0,1,1,M Zondeki,South Africa,2005
-1943,24.0,4,95,0,3.95,-,-,Australia,Sydney,0,1,1,RAS Lakmal,Sri Lanka,2013
-1945,26.0,6,96,0,3.69,-,-,South Africa,Bloemfontein,0,1,1,DR Tuffey,New Zealand,2000
-1946,28.0,10,96,0,3.42,-,-,New Zealand,Wellington,0,1,1,MF Maharoof,Sri Lanka,2005
-1947,36.0,6,96,0,2.66,-,-,West Indies,St John's,0,1,1,JH Kallis,South Africa,2005
-1948,25.0,5,96,0,3.84,-,-,Australia,Adelaide,0,1,1,SJ Harmison,England,2006
-1951,29.3,1,97,0,3.28,-,-,England,Nottingham,0,1,1,JDP Oram,New Zealand,2004
-1952,31.0,3,97,0,3.12,-,-,Sri Lanka,Colombo (SSC),0,1,1,M Ntini,South Africa,2006
-1953,24.0,1,97,0,4.04,-,-,South Africa,Centurion,0,1,1,S Sreesanth,India,2010
-1954,21.0,1,97,0,4.61,-,-,Australia,Brisbane,0,1,1,RK Kleinveldt,South Africa,2012
-1955,24.0,1,97,0,4.04,-,-,India,Ahmedabad,0,1,1,SCJ Broad,England,2012
-1956,17.0,1,97,0,5.7,-,-,Australia,Melbourne,0,1,1,KAJ Roach,West Indies,2015
-1960,23.0,5,98,0,4.26,-,-,West Indies,Georgetown,0,1,1,M Ntini,South Africa,2005
-1962,16.0,1,99,0,6.18,-,-,Australia,Hobart,0,1,1,KAJ Roach,West Indies,2015
-1963,27.0,1,100,0,3.7,-,-,Australia,Adelaide,0,1,1,TG Southee,New Zealand,2008
-1964,30.0,6,100,0,3.33,-,-,Australia,Adelaide,0,1,1,I Sharma,India,2012
-1965,27.0,3,100,0,3.7,-,-,England,Chester-le-Street,0,1,1,RMS Eranga,Sri Lanka,2016
-1967,33.0,5,101,0,3.06,-,-,South Africa,Centurion,0,1,1,VC Drakes,West Indies,2004
-1973,30.0,3,103,0,3.43,-,-,Australia,Brisbane,0,1,1,VD Philander,South Africa,2012
-1974,44.0,5,104,0,2.36,-,-,Australia,Hobart,0,1,1,KMDN Kulasekara,Sri Lanka,2012
-1978,34.0,6,107,0,3.14,-,-,Australia,Brisbane,0,1,1,MF Maharoof,Sri Lanka,2007
-1980,26.1,5,108,0,4.12,-,-,South Africa,Centurion,0,1,1,JE Taylor,West Indies,2014
-1981,17.0,0,108,0,6.35,-,-,Australia,Hobart,0,1,1,JE Taylor,West Indies,2015
-1982,30.0,3,109,0,3.63,-,-,Australia,Melbourne,0,1,1,CR Brathwaite,West Indies,2015
-1983,22.0,3,109,0,4.95,-,-,England,Birmingham,0,1,1,AS Joseph,West Indies,2017
-1985,24.0,4,111,0,4.62,-,-,England,The Oval,0,1,1,AB Agarkar,India,2002
-1987,34.0,5,111,0,3.26,-,-,West Indies,St John's,0,1,1,SM Pollock,South Africa,2005
-1988,30.0,4,111,0,3.7,-,-,South Africa,Johannesburg,0,1,1,JM Anderson,England,2010
-1989,29.0,2,111,0,3.82,-,-,India,Nagpur,0,1,1,RAS Lakmal,Sri Lanka,2017
-1990,32.0,4,113,0,3.53,-,-,West Indies,Bridgetown,0,1,1,SCJ Broad,England,2009
-1991,31.0,7,114,0,3.67,-,-,South Africa,Durban,0,1,1,I Sharma,India,2013
-1992,32.0,3,114,0,3.56,-,-,West Indies,North Sound,0,1,1,BA Stokes,England,2015
-1994,25.0,4,116,0,4.64,-,-,Australia,Brisbane,0,1,1,JDP Oram,New Zealand,2004
-1995,23.0,5,117,0,5.08,-,-,Sri Lanka,Colombo (SSC),0,1,1,A Mithun,India,2010
-1996,27.0,4,118,0,4.37,-,-,Australia,Adelaide,0,1,1,CS Martin,New Zealand,2004
-1998,35.0,5,121,0,3.45,-,-,England,The Oval,0,1,1,M Morkel,South Africa,2008
-1999,34.0,5,122,0,3.58,-,-,Australia,Sydney,0,1,1,B Kumar,India,2015
-2000,24.0,2,123,0,5.12,-,-,Australia,Sydney,0,1,1,UT Yadav,India,2012
-2003,35.0,3,127,0,3.62,-,-,India,Indore,0,1,1,MJ Henry,New Zealand,2016
-2004,28.0,3,128,0,4.57,-,-,New Zealand,Napier,0,1,1,MM Patel,India,2009
-2005,23.0,0,129,0,5.6,-,-,South Africa,Durban,0,1,1,FH Edwards,West Indies,2008
-2006,29.0,2,130,0,4.48,-,-,England,Lord's,0,1,1,M Ntini,South Africa,2008
-2009,22.0,1,131,0,5.95,-,-,South Africa,Cape Town,0,1,1,NLTC Perera,Sri Lanka,2012
-2010,32.0,8,134,0,4.18,-,-,England,The Oval,0,1,1,JN Gillespie,Australia,2001
-2013,35.0,3,142,0,4.05,-,-,Australia,Perth,0,1,1,SCJ Broad,England,2017
-2014,34.0,2,143,0,4.2,-,-,England,Lord's,0,1,1,FH Edwards,West Indies,2004
-2015,37.0,5,146,0,3.94,-,-,Australia,Sydney,0,1,1,I Sharma,India,2008
-2016,27.5,4,148,0,5.31,-,-,New Zealand,Dunedin,0,1,1,ST Gabriel,West Indies,2013
-2017,36.0,4,158,0,4.38,-,-,England,Birmingham,0,1,1,S Sreesanth,India,2011
-2018,35.0,5,161,0,4.6,-,-,Australia,Sydney,0,1,1,AB Agarkar,India,2004
-2019,43.0,6,164,0,3.81,-,-,Australia,Brisbane,0,1,1,MJ Hoggard,England,2002
-2021,38.0,4,170,0,4.47,-,-,Australia,Brisbane,0,1,1,DAJ Bracewell,New Zealand,2015
-2022,47.0,12,179,0,3.8,-,-,England,Southampton,0,1,1,Pankaj Singh,India,2014
+1734,15.0,11,11,0,0.73,1000,1000,England,Nottingham,0,1,1,SR Watson,Australia,2013
+1736,12.0,5,14,0,1.16,1000,1000,West Indies,Port of Spain,0,1,1,SR Watson,Australia,2012
+1737,12.0,5,18,0,1.5,1000,1000,Australia,Perth,0,1,1,NJ Astle,New Zealand,2001
+1739,13.0,4,22,0,1.69,1000,1000,New Zealand,Wellington,0,1,1,MM Patel,India,2009
+1741,11.0,7,25,0,2.27,1000,1000,New Zealand,Hamilton,0,1,1,AD Mathews,Sri Lanka,2015
+1743,15.0,7,26,0,1.73,1000,1000,England,Manchester,0,1,1,SR Watson,Australia,2013
+1744,13.0,5,26,0,2.0,1000,1000,South Africa,Port Elizabeth,0,1,1,AD Mathews,Sri Lanka,2016
+1746,12.0,3,27,0,2.25,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,Mohammed Shami,India,2017
+1747,13.0,5,29,0,2.23,1000,1000,India,Mumbai,0,1,1,MS Kasprowicz,Australia,2004
+1748,10.0,4,29,0,2.9,1000,1000,Australia,Brisbane,0,1,1,GD Elliott,New Zealand,2008
+1749,11.0,3,29,0,2.63,1000,1000,New Zealand,Wellington,0,1,1,AD Mathews,Sri Lanka,2015
+1750,14.0,7,30,0,2.14,1000,1000,West Indies,Bridgetown,0,1,1,AA Donald,South Africa,2001
+1751,12.0,3,30,0,2.5,1000,1000,Australia,Brisbane,0,1,1,JH Kallis,South Africa,2012
+1752,11.0,3,30,0,2.72,1000,1000,India,Mohali,0,1,1,DW Steyn,South Africa,2015
+1753,26.0,15,31,0,1.19,1000,1000,South Africa,Johannesburg,0,1,1,NJ Astle,New Zealand,2000
+1756,11.0,2,31,0,2.81,1000,1000,England,Leeds,0,1,1,AD Mathews,Sri Lanka,2016
+1757,13.0,5,31,0,2.38,1000,1000,England,Lord's,0,1,1,AD Mathews,Sri Lanka,2016
+1758,10.0,2,32,0,3.2,1000,1000,India,Mumbai,0,1,1,BA Stokes,England,2016
+1759,10.0,3,33,0,3.3,1000,1000,West Indies,Bridgetown,0,1,1,L Klusener,South Africa,2001
+1761,10.0,2,33,0,3.3,1000,1000,South Africa,Cape Town,0,1,1,SB Styris,New Zealand,2006
+1767,13.0,1,36,0,2.76,1000,1000,England,Manchester,0,1,1,JDP Oram,New Zealand,2008
+1769,13.0,5,37,0,2.84,1000,1000,England,Lord's,0,1,1,SB Styris,New Zealand,2004
+1770,10.0,0,37,0,3.7,1000,1000,England,Nottingham,0,1,1,STR Binny,India,2014
+1771,15.0,4,38,0,2.53,1000,1000,Sri Lanka,Galle,0,1,1,L Klusener,South Africa,2000
+1772,13.0,2,38,0,2.92,1000,1000,South Africa,Bloemfontein,0,1,1,CD McMillan,New Zealand,2000
+1773,11.0,2,39,0,3.54,1000,1000,England,Lord's,0,1,1,AD Mathews,Sri Lanka,2014
+1775,21.0,10,40,0,1.9,1000,1000,West Indies,Port of Spain,0,1,1,L Klusener,South Africa,2001
+1776,15.0,4,40,0,2.66,1000,1000,West Indies,St George's,0,1,1,CZ Harris,New Zealand,2002
+1777,10.0,1,40,0,4.0,1000,1000,Australia,Perth,0,1,1,MA Butcher,England,2002
+1778,13.0,4,40,0,3.07,1000,1000,West Indies,Georgetown,0,1,1,AJ Bichel,Australia,2003
+1779,12.0,1,40,0,3.33,1000,1000,India,Kolkata,0,1,1,JH Kallis,South Africa,2010
+1782,17.0,5,41,0,2.41,1000,1000,South Africa,Johannesburg,0,1,1,CD McMillan,New Zealand,2000
+1783,12.0,1,41,0,3.41,1000,1000,India,Kolkata,0,1,1,RT Ponting,Australia,2001
+1785,11.0,2,41,0,3.72,1000,1000,Sri Lanka,Galle,0,1,1,DJG Sammy,West Indies,2010
+1786,12.0,1,41,0,3.41,1000,1000,Australia,Brisbane,0,1,1,PD Collingwood,England,2010
+1787,15.0,3,41,0,2.73,1000,1000,Australia,Hobart,0,1,1,AD Mathews,Sri Lanka,2012
+1788,17.0,3,41,0,2.41,1000,1000,South Africa,Cape Town,0,1,1,AD Mathews,Sri Lanka,2017
+1791,11.0,3,42,0,3.81,1000,1000,England,Birmingham,0,1,1,MF Maharoof,Sri Lanka,2006
+1793,12.3,3,44,0,3.52,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,SC Ganguly,India,2001
+1794,12.0,0,44,0,3.66,1000,1000,West Indies,St John's,0,1,1,SC Ganguly,India,2002
+1795,10.0,0,44,0,4.4,1000,1000,South Africa,Cape Town,0,1,1,SR Watson,Australia,2011
+1796,12.0,2,44,0,3.66,1000,1000,West Indies,Kingston,0,1,1,UT Yadav,India,2016
+1799,21.0,4,45,0,2.14,1000,1000,India,Nagpur,0,1,1,MS Kasprowicz,Australia,2004
+1800,13.0,2,45,0,3.46,1000,1000,England,Birmingham,0,1,1,KMDN Kulasekara,Sri Lanka,2006
+1801,21.0,7,45,0,2.14,1000,1000,India,Hyderabad (Deccan),0,1,1,MC Henriques,Australia,2013
+1802,10.0,0,45,0,4.5,1000,1000,England,Lord's,0,1,1,STR Binny,India,2014
+1803,10.0,1,45,0,4.5,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,MR Marsh,Australia,2016
+1804,30.0,13,46,0,1.53,1000,1000,Sri Lanka,Galle,0,1,1,AR Caddick,England,2001
+1806,15.0,2,47,0,3.13,1000,1000,India,Ahmedabad,0,1,1,HK Bennett,New Zealand,2010
+1807,12.0,0,47,0,3.91,1000,1000,South Africa,Cape Town,0,1,1,AD Mathews,Sri Lanka,2012
+1808,13.0,3,48,0,3.69,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,JH Kallis,South Africa,2000
+1809,11.0,2,48,0,4.36,1000,1000,England,Leeds,0,1,1,RD King,West Indies,2000
+1811,19.0,5,48,0,2.52,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,BA Williams,Australia,2004
+1813,21.0,4,48,0,2.28,1000,1000,India,Mohali,0,1,1,JM Anderson,England,2016
+1815,20.0,4,49,0,2.45,1000,1000,Sri Lanka,Galle,0,1,1,MJ Hoggard,England,2003
+1816,17.0,2,49,0,2.88,1000,1000,India,Kanpur,0,1,1,AD Mathews,Sri Lanka,2009
+1817,13.0,3,49,0,3.76,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,STR Binny,India,2015
+1818,17.0,4,49,0,2.88,1000,1000,New Zealand,Christchurch,0,1,1,MR Marsh,Australia,2016
+1819,13.0,2,50,0,3.84,1000,1000,South Africa,Durban,0,1,1,WW Hinds,West Indies,2003
+1820,14.0,4,50,0,3.57,1000,1000,England,The Oval,0,1,1,DR Smith,West Indies,2004
+1822,16.0,1,51,0,3.18,1000,1000,West Indies,Bridgetown,0,1,1,PD Collingwood,England,2009
+1825,13.0,2,52,0,4.0,1000,1000,Australia,Melbourne,0,1,1,MA Butcher,England,2002
+1826,16.0,3,52,0,3.25,1000,1000,Sri Lanka,Galle,0,1,1,JH Kallis,South Africa,2004
+1827,14.0,1,52,0,3.71,1000,1000,Australia,Adelaide,0,1,1,R Rampaul,West Indies,2009
+1828,12.0,1,52,0,4.33,1000,1000,India,Kolkata,0,1,1,DJG Sammy,West Indies,2013
+1830,10.0,0,53,0,5.3,1000,1000,India,Mumbai,0,1,1,L Klusener,South Africa,2000
+1833,16.0,4,53,0,3.31,1000,1000,West Indies,Georgetown,0,1,1,AJ Hall,South Africa,2005
+1834,11.0,0,53,0,4.81,1000,1000,Australia,Sydney,0,1,1,KTGD Prasad,Sri Lanka,2013
+1835,18.0,1,53,0,2.94,1000,1000,India,Indore,0,1,1,JDS Neesham,New Zealand,2016
+1839,17.0,3,55,0,3.23,1000,1000,Australia,Melbourne,0,1,1,JH Kallis,South Africa,2001
+1840,24.0,7,55,0,2.29,1000,1000,Australia,Adelaide,0,1,1,JDP Oram,New Zealand,2004
+1841,19.2,5,56,0,2.89,1000,1000,England,The Oval,0,1,1,A Nel,South Africa,2008
+1842,21.0,7,56,0,2.66,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,JDP Oram,New Zealand,2009
+1845,17.0,5,57,0,3.35,1000,1000,England,Lord's,0,1,1,MF Maharoof,Sri Lanka,2011
+1846,31.0,6,57,0,1.83,1000,1000,India,Rajkot,0,1,1,CR Woakes,England,2016
+1847,27.0,10,57,0,2.11,1000,1000,New Zealand,Wellington,0,1,1,VD Philander,South Africa,2017
+1848,12.0,0,58,0,4.83,1000,1000,England,The Oval,0,1,1,STR Binny,India,2014
+1849,10.0,0,59,0,5.9,1000,1000,Australia,Perth,0,1,1,SI Mahmood,England,2006
+1850,16.0,2,59,0,3.68,1000,1000,England,Lord's,0,1,1,TG Southee,New Zealand,2008
+1851,19.0,4,60,0,3.15,1000,1000,South Africa,Johannesburg,0,1,1,DR Tuffey,New Zealand,2000
+1852,12.0,1,60,0,5.0,1000,1000,India,Mumbai,0,1,1,SCJ Broad,England,2012
+1858,20.0,7,62,0,3.1,1000,1000,South Africa,Cape Town,0,1,1,CS Martin,New Zealand,2006
+1859,21.0,3,62,0,2.95,1000,1000,West Indies,Gros Islet,0,1,1,VRV Singh,India,2006
+1862,20.0,5,63,0,3.15,1000,1000,India,Mumbai,0,1,1,JM Anderson,England,2016
+1863,19.0,7,64,0,3.36,1000,1000,Australia,Adelaide,0,1,1,M Ntini,South Africa,2001
+1864,36.0,11,64,0,1.77,1000,1000,West Indies,Bridgetown,0,1,1,GD McGrath,Australia,2003
+1865,26.0,10,65,0,2.5,1000,1000,Sri Lanka,Galle,0,1,1,VD Philander,South Africa,2014
+1867,13.0,0,66,0,5.07,1000,1000,West Indies,Bridgetown,0,1,1,RS Bopara,England,2009
+1869,18.0,4,67,0,3.72,1000,1000,South Africa,Johannesburg,0,1,1,VRV Singh,India,2006
+1870,16.0,1,67,0,4.18,1000,1000,Sri Lanka,Galle,0,1,1,DAJ Bracewell,New Zealand,2012
+1872,18.0,3,68,0,3.77,1000,1000,West Indies,St John's,0,1,1,ME Trescothick,England,2004
+1874,20.0,2,68,0,3.4,1000,1000,England,Chester-le-Street,0,1,1,JE Taylor,West Indies,2009
+1878,26.0,5,69,0,2.65,1000,1000,India,Nagpur,0,1,1,TT Bresnan,England,2012
+1879,14.0,3,70,0,5.0,1000,1000,West Indies,Georgetown,0,1,1,JH Kallis,South Africa,2005
+1880,24.0,7,70,0,2.91,1000,1000,West Indies,Port of Spain,0,1,1,JH Kallis,South Africa,2005
+1881,20.0,3,70,0,3.5,1000,1000,England,Lord's,0,1,1,JH Kallis,South Africa,2008
+1882,12.0,2,71,0,5.91,1000,1000,England,Birmingham,0,1,1,B Lee,Australia,2001
+1885,14.0,0,71,0,5.07,1000,1000,India,Chennai,0,1,1,JH Kallis,South Africa,2008
+1886,24.0,3,71,0,2.95,1000,1000,India,Mohali,0,1,1,SR Watson,Australia,2008
+1888,33.0,7,72,0,2.18,1000,1000,Australia,Brisbane,0,1,1,SCJ Broad,England,2010
+1889,19.0,2,73,0,3.84,1000,1000,India,Ahmedabad,0,1,1,TT Bresnan,England,2012
+1890,15.0,1,74,0,4.93,1000,1000,Australia,Hobart,0,1,1,DR Tuffey,New Zealand,2001
+1892,25.0,4,74,0,2.96,1000,1000,India,Chennai,0,1,1,GD McGrath,Australia,2004
+1895,28.0,7,74,0,2.64,1000,1000,England,The Oval,0,1,1,PM Siddle,Australia,2013
+1896,18.0,1,75,0,4.16,1000,1000,Australia,Adelaide,0,1,1,MI Black,West Indies,2000
+1898,24.0,5,75,0,3.12,1000,1000,England,Lord's,0,1,1,LS Baker,West Indies,2009
+1899,24.0,3,75,0,3.12,1000,1000,Australia,Hobart,0,1,1,JO Holder,West Indies,2015
+1900,19.0,2,76,0,4.0,1000,1000,Australia,Perth,0,1,1,A Flintoff,England,2006
+1901,25.0,4,76,0,3.04,1000,1000,India,Chennai,0,1,1,M Morkel,South Africa,2008
+1903,22.0,2,78,0,3.54,1000,1000,Sri Lanka,Colombo (PSS),0,1,1,A Mithun,India,2010
+1904,25.0,5,79,0,3.16,1000,1000,Australia,Brisbane,0,1,1,NAM McLean,West Indies,2000
+1905,24.0,5,79,0,3.29,1000,1000,India,Hyderabad (Deccan),0,1,1,BJ Arnel,New Zealand,2010
+1906,33.0,7,79,0,2.39,1000,1000,New Zealand,Hamilton,0,1,1,VD Philander,South Africa,2017
+1907,34.0,11,80,0,2.35,1000,1000,India,Mohali,0,1,1,A Flintoff,England,2001
+1909,24.0,5,81,0,3.37,1000,1000,England,Cardiff,0,1,1,NLTC Perera,Sri Lanka,2011
+1910,30.0,8,81,0,2.7,1000,1000,South Africa,Johannesburg,0,1,1,RAS Lakmal,Sri Lanka,2017
+1911,45.0,19,82,0,1.82,1000,1000,West Indies,St John's,0,1,1,J Srinath,India,2002
+1913,18.0,2,82,0,4.55,1000,1000,West Indies,St John's,0,1,1,MJ Hoggard,England,2004
+1914,23.0,4,82,0,3.56,1000,1000,Australia,Hobart,0,1,1,MF Maharoof,Sri Lanka,2007
+1915,20.0,3,83,0,4.15,1000,1000,England,Manchester,0,1,1,FA Rose,West Indies,2000
+1917,35.0,11,84,0,2.4,1000,1000,West Indies,Bridgetown,0,1,1,SM Pollock,South Africa,2001
+1918,32.0,7,85,0,2.65,1000,1000,West Indies,Bridgetown,0,1,1,J Srinath,India,2002
+1919,24.0,5,85,0,3.54,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,JM Anderson,England,2003
+1920,25.0,3,85,0,3.4,1000,1000,New Zealand,Dunedin,0,1,1,LS Baker,West Indies,2008
+1921,32.0,6,85,0,2.65,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,JR Hazlewood,Australia,2016
+1926,24.0,7,86,0,3.58,1000,1000,India,Mohali,0,1,1,CR Woakes,England,2016
+1929,26.5,5,89,0,3.31,1000,1000,South Africa,Johannesburg,0,1,1,SJ Harmison,England,2005
+1930,25.0,3,89,0,3.56,1000,1000,England,Lord's,0,1,1,KMDN Kulasekara,Sri Lanka,2006
+1932,27.0,8,91,0,3.37,1000,1000,New Zealand,Hamilton,0,1,1,A Nel,South Africa,2004
+1933,26.4,3,92,0,3.45,1000,1000,South Africa,Cape Town,0,1,1,N Pradeep,Sri Lanka,2017
+1934,30.0,6,93,0,3.1,1000,1000,Australia,Brisbane,0,1,1,DJ Nash,New Zealand,2001
+1935,22.0,4,93,0,4.22,1000,1000,New Zealand,Auckland,0,1,1,DJ Terbrugge,South Africa,2004
+1936,23.0,2,93,0,4.04,1000,1000,India,Chennai,0,1,1,JT Ball,England,2016
+1938,19.0,3,95,0,5.0,1000,1000,Australia,Sydney,0,1,1,AB Agarkar,India,2000
+1939,20.0,2,95,0,4.75,1000,1000,Australia,Adelaide,0,1,1,AR Caddick,England,2002
+1942,26.0,4,95,0,3.65,1000,1000,West Indies,Port of Spain,0,1,1,M Zondeki,South Africa,2005
+1943,24.0,4,95,0,3.95,1000,1000,Australia,Sydney,0,1,1,RAS Lakmal,Sri Lanka,2013
+1945,26.0,6,96,0,3.69,1000,1000,South Africa,Bloemfontein,0,1,1,DR Tuffey,New Zealand,2000
+1946,28.0,10,96,0,3.42,1000,1000,New Zealand,Wellington,0,1,1,MF Maharoof,Sri Lanka,2005
+1947,36.0,6,96,0,2.66,1000,1000,West Indies,St John's,0,1,1,JH Kallis,South Africa,2005
+1948,25.0,5,96,0,3.84,1000,1000,Australia,Adelaide,0,1,1,SJ Harmison,England,2006
+1951,29.3,1,97,0,3.28,1000,1000,England,Nottingham,0,1,1,JDP Oram,New Zealand,2004
+1952,31.0,3,97,0,3.12,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,M Ntini,South Africa,2006
+1953,24.0,1,97,0,4.04,1000,1000,South Africa,Centurion,0,1,1,S Sreesanth,India,2010
+1954,21.0,1,97,0,4.61,1000,1000,Australia,Brisbane,0,1,1,RK Kleinveldt,South Africa,2012
+1955,24.0,1,97,0,4.04,1000,1000,India,Ahmedabad,0,1,1,SCJ Broad,England,2012
+1956,17.0,1,97,0,5.7,1000,1000,Australia,Melbourne,0,1,1,KAJ Roach,West Indies,2015
+1960,23.0,5,98,0,4.26,1000,1000,West Indies,Georgetown,0,1,1,M Ntini,South Africa,2005
+1962,16.0,1,99,0,6.18,1000,1000,Australia,Hobart,0,1,1,KAJ Roach,West Indies,2015
+1963,27.0,1,100,0,3.7,1000,1000,Australia,Adelaide,0,1,1,TG Southee,New Zealand,2008
+1964,30.0,6,100,0,3.33,1000,1000,Australia,Adelaide,0,1,1,I Sharma,India,2012
+1965,27.0,3,100,0,3.7,1000,1000,England,Chester-le-Street,0,1,1,RMS Eranga,Sri Lanka,2016
+1967,33.0,5,101,0,3.06,1000,1000,South Africa,Centurion,0,1,1,VC Drakes,West Indies,2004
+1973,30.0,3,103,0,3.43,1000,1000,Australia,Brisbane,0,1,1,VD Philander,South Africa,2012
+1974,44.0,5,104,0,2.36,1000,1000,Australia,Hobart,0,1,1,KMDN Kulasekara,Sri Lanka,2012
+1978,34.0,6,107,0,3.14,1000,1000,Australia,Brisbane,0,1,1,MF Maharoof,Sri Lanka,2007
+1980,26.1,5,108,0,4.12,1000,1000,South Africa,Centurion,0,1,1,JE Taylor,West Indies,2014
+1981,17.0,0,108,0,6.35,1000,1000,Australia,Hobart,0,1,1,JE Taylor,West Indies,2015
+1982,30.0,3,109,0,3.63,1000,1000,Australia,Melbourne,0,1,1,CR Brathwaite,West Indies,2015
+1983,22.0,3,109,0,4.95,1000,1000,England,Birmingham,0,1,1,AS Joseph,West Indies,2017
+1985,24.0,4,111,0,4.62,1000,1000,England,The Oval,0,1,1,AB Agarkar,India,2002
+1987,34.0,5,111,0,3.26,1000,1000,West Indies,St John's,0,1,1,SM Pollock,South Africa,2005
+1988,30.0,4,111,0,3.7,1000,1000,South Africa,Johannesburg,0,1,1,JM Anderson,England,2010
+1989,29.0,2,111,0,3.82,1000,1000,India,Nagpur,0,1,1,RAS Lakmal,Sri Lanka,2017
+1990,32.0,4,113,0,3.53,1000,1000,West Indies,Bridgetown,0,1,1,SCJ Broad,England,2009
+1991,31.0,7,114,0,3.67,1000,1000,South Africa,Durban,0,1,1,I Sharma,India,2013
+1992,32.0,3,114,0,3.56,1000,1000,West Indies,North Sound,0,1,1,BA Stokes,England,2015
+1994,25.0,4,116,0,4.64,1000,1000,Australia,Brisbane,0,1,1,JDP Oram,New Zealand,2004
+1995,23.0,5,117,0,5.08,1000,1000,Sri Lanka,Colombo (SSC),0,1,1,A Mithun,India,2010
+1996,27.0,4,118,0,4.37,1000,1000,Australia,Adelaide,0,1,1,CS Martin,New Zealand,2004
+1998,35.0,5,121,0,3.45,1000,1000,England,The Oval,0,1,1,M Morkel,South Africa,2008
+1999,34.0,5,122,0,3.58,1000,1000,Australia,Sydney,0,1,1,B Kumar,India,2015
+2000,24.0,2,123,0,5.12,1000,1000,Australia,Sydney,0,1,1,UT Yadav,India,2012
+2003,35.0,3,127,0,3.62,1000,1000,India,Indore,0,1,1,MJ Henry,New Zealand,2016
+2004,28.0,3,128,0,4.57,1000,1000,New Zealand,Napier,0,1,1,MM Patel,India,2009
+2005,23.0,0,129,0,5.6,1000,1000,South Africa,Durban,0,1,1,FH Edwards,West Indies,2008
+2006,29.0,2,130,0,4.48,1000,1000,England,Lord's,0,1,1,M Ntini,South Africa,2008
+2009,22.0,1,131,0,5.95,1000,1000,South Africa,Cape Town,0,1,1,NLTC Perera,Sri Lanka,2012
+2010,32.0,8,134,0,4.18,1000,1000,England,The Oval,0,1,1,JN Gillespie,Australia,2001
+2013,35.0,3,142,0,4.05,1000,1000,Australia,Perth,0,1,1,SCJ Broad,England,2017
+2014,34.0,2,143,0,4.2,1000,1000,England,Lord's,0,1,1,FH Edwards,West Indies,2004
+2015,37.0,5,146,0,3.94,1000,1000,Australia,Sydney,0,1,1,I Sharma,India,2008
+2016,27.5,4,148,0,5.31,1000,1000,New Zealand,Dunedin,0,1,1,ST Gabriel,West Indies,2013
+2017,36.0,4,158,0,4.38,1000,1000,England,Birmingham,0,1,1,S Sreesanth,India,2011
+2018,35.0,5,161,0,4.6,1000,1000,Australia,Sydney,0,1,1,AB Agarkar,India,2004
+2019,43.0,6,164,0,3.81,1000,1000,Australia,Brisbane,0,1,1,MJ Hoggard,England,2002
+2021,38.0,4,170,0,4.47,1000,1000,Australia,Brisbane,0,1,1,DAJ Bracewell,New Zealand,2015
+2022,47.0,12,179,0,3.8,1000,1000,England,Southampton,0,1,1,Pankaj Singh,India,2014
 1,76.0,8,246,12,3.23,20.5,38,England,The Oval,0,1,0,SK Warne,Australia,2005
 2,88.5,15,279,12,3.14,23.25,44.4,Australia,Sydney,0,1,0,A Kumble,India,2004
 3,74.5,4,358,12,4.78,29.83,37.4,India,Nagpur,0,1,0,JJ Krejza,Australia,2008
@@ -4192,76 +4192,76 @@
 651,36.0,3,189,1,5.25,189,216,Sri Lanka,Galle,0,1,0,JS Patel,New Zealand,2009
 652,41.0,1,190,1,4.63,190,246,India,Chennai,0,1,0,MM Ali,England,2016
 654,56.0,4,218,1,3.89,218,336,England,Lord's,0,1,0,Harbhajan Singh,India,2011
-655,10.0,0,21,0,2.1,-,-,South Africa,Centurion,0,1,0,D Ganga,West Indies,2004
-659,10.0,1,24,0,2.4,-,-,India,Nagpur,0,1,0,CL White,Australia,2008
-662,10.0,1,28,0,2.8,-,-,Sri Lanka,Colombo (SSC),0,1,0,CH Gayle,West Indies,2001
-664,11.0,1,29,0,2.63,-,-,South Africa,Durban,0,1,0,RG Sharma,India,2013
-665,14.0,1,29,0,2.07,-,-,England,Manchester,0,1,0,R Ashwin,India,2014
-666,13.0,3,29,0,2.23,-,-,Australia,Adelaide,0,1,0,M Vijay,India,2014
-667,16.0,7,29,0,1.81,-,-,West Indies,St George's,0,1,0,JE Root,England,2015
-670,18.0,6,33,0,1.83,-,-,New Zealand,Napier,0,1,0,CH Gayle,West Indies,2008
-671,13.0,1,33,0,2.53,-,-,India,Mohali,0,1,0,MM Ali,England,2016
-673,12.0,1,35,0,2.91,-,-,Australia,Sydney,0,1,0,R Vijay Bharadwaj,India,2000
-674,12.0,2,35,0,2.91,-,-,Australia,Adelaide,0,1,0,RR Sarwan,West Indies,2005
-676,16.0,5,37,0,2.31,-,-,Australia,Sydney,0,1,0,MN Samuels,West Indies,2001
-681,14.0,3,39,0,2.78,-,-,South Africa,Durban,0,1,0,RP Arnold,Sri Lanka,2000
-682,10.0,0,39,0,3.9,-,-,South Africa,Cape Town,0,1,0,CH Gayle,West Indies,2004
-683,11.0,0,40,0,3.63,-,-,New Zealand,Wellington,0,1,0,RG Sharma,India,2014
-684,11.0,0,42,0,3.81,-,-,India,Mumbai,0,1,0,MN Samuels,West Indies,2013
-685,11.0,1,43,0,3.9,-,-,England,Manchester,0,1,0,S Chanderpaul,West Indies,2007
-686,12.0,1,46,0,3.83,-,-,Australia,Brisbane,0,1,0,MN Samuels,West Indies,2005
-687,18.0,4,46,0,2.55,-,-,New Zealand,Wellington,0,1,0,CH Gayle,West Indies,2006
-688,10.0,1,47,0,4.7,-,-,England,Nottingham,0,1,0,NM Lyon,Australia,2015
-689,16.0,0,47,0,2.93,-,-,India,Mohali,0,1,0,GJ Batty,England,2016
-690,16.0,0,48,0,3.0,-,-,India,Delhi,0,1,0,DM de Silva,Sri Lanka,2017
-692,12.0,0,49,0,4.08,-,-,England,Birmingham,0,1,0,RR Sarwan,West Indies,2004
-693,11.0,0,49,0,4.45,-,-,Australia,Sydney,0,1,0,JA Rudolph,South Africa,2006
-695,10.0,0,50,0,5.0,-,-,West Indies,Georgetown,0,1,0,GC Smith,South Africa,2005
-696,17.0,3,51,0,3.0,-,-,Sri Lanka,Colombo (SSC),0,1,0,D Ramnarine,West Indies,2001
-697,10.0,1,51,0,5.1,-,-,South Africa,Centurion,0,1,0,SR Tendulkar,India,2010
-701,17.0,2,52,0,3.05,-,-,New Zealand,Hamilton,0,1,0,Imran Tahir,South Africa,2012
-702,13.0,0,52,0,4.0,-,-,Australia,Hobart,0,1,0,KC Brathwaite,West Indies,2015
-706,16.0,3,53,0,3.31,-,-,Australia,Sydney,0,1,0,SK Raina,India,2015
-707,20.0,4,54,0,2.7,-,-,South Africa,Cape Town,0,1,0,JE Root,England,2016
-709,16.0,0,55,0,3.43,-,-,Australia,Adelaide,0,1,0,V Sehwag,India,2012
-710,14.0,0,56,0,4.0,-,-,Australia,Melbourne,0,1,0,MN Samuels,West Indies,2000
-711,15.0,0,57,0,3.8,-,-,Sri Lanka,Colombo (SSC),0,1,0,KP Pietersen,England,2007
-712,15.0,2,57,0,3.8,-,-,Australia,Brisbane,0,1,0,JE Root,England,2013
-713,24.0,3,59,0,2.45,-,-,Sri Lanka,Galle,0,1,0,CL Hooper,West Indies,2001
-714,16.3,2,59,0,3.57,-,-,England,Lord's,0,1,0,MJ North,Australia,2009
-715,34.0,10,60,0,1.76,-,-,Sri Lanka,Kandy,0,1,0,CL Hooper,West Indies,2001
-716,13.0,0,60,0,4.61,-,-,West Indies,St John's,0,1,0,MP Vaughan,England,2004
-717,17.0,4,60,0,3.52,-,-,South Africa,Cape Town,0,1,0,JS Patel,New Zealand,2013
-718,20.0,3,61,0,3.05,-,-,Sri Lanka,Colombo (PSS),0,1,0,D Bishoo,West Indies,2015
-720,34.0,18,63,0,1.85,-,-,South Africa,Cape Town,0,1,0,NM Lyon,Australia,2014
-722,16.0,3,65,0,4.06,-,-,West Indies,Kingston,0,1,0,Harbhajan Singh,India,2006
-725,12.0,0,69,0,5.75,-,-,Sri Lanka,Kandy,0,1,0,SCG MacGill,Australia,2004
-726,23.0,5,70,0,3.04,-,-,India,Kolkata,0,1,0,CH Gayle,West Indies,2002
-727,29.0,8,70,0,2.41,-,-,New Zealand,Wellington,0,1,0,RN Lewis,West Indies,2006
-728,15.0,1,70,0,4.66,-,-,England,Birmingham,0,1,0,SP Narine,West Indies,2012
-731,15.0,1,73,0,4.86,-,-,India,Delhi,0,1,0,CL White,Australia,2008
-732,12.0,0,73,0,6.08,-,-,New Zealand,Napier,0,1,0,V Sehwag,India,2009
-733,15.0,0,73,0,4.86,-,-,Sri Lanka,Colombo (RPS),0,1,0,S Shillingford,West Indies,2010
-735,23.0,2,74,0,3.21,-,-,New Zealand,Wellington,0,1,0,JP Duminy,South Africa,2012
-738,23.0,1,75,0,3.26,-,-,Australia,Sydney,0,1,0,V Sehwag,India,2012
-742,19.0,0,78,0,4.1,-,-,England,The Oval,0,1,0,SR Tendulkar,India,2007
-743,24.0,3,79,0,3.29,-,-,Australia,Adelaide,0,1,0,MM Ali,England,2017
-746,36.0,5,83,0,2.3,-,-,South Africa,Johannesburg,0,1,0,R Ashwin,India,2013
-748,20.0,0,89,0,4.45,-,-,South Africa,Centurion,0,1,0,MN Samuels,West Indies,2014
-749,25.2,2,89,0,3.51,-,-,Australia,Melbourne,0,1,0,MM Ali,England,2017
-750,34.0,5,91,0,2.67,-,-,Sri Lanka,Colombo (SSC),0,1,0,NM Lyon,Australia,2011
-752,28.0,4,97,0,3.46,-,-,New Zealand,Wellington,0,1,0,UDU Chandana,Sri Lanka,2005
-753,30.0,4,98,0,3.26,-,-,Sri Lanka,Galle,0,1,0,Harbhajan Singh,India,2010
-755,27.0,0,104,0,3.85,-,-,India,Kolkata,0,1,0,MN Samuels,West Indies,2011
-757,29.0,4,111,0,3.82,-,-,West Indies,Port of Spain,0,1,0,MD Craig,New Zealand,2014
-760,37.0,4,121,0,3.27,-,-,Sri Lanka,Colombo (SSC),0,1,0,A Kumble,India,2008
-761,33.2,6,126,0,3.78,-,-,Australia,Sydney,0,1,0,A Kumble,India,2000
-762,41.0,4,137,0,3.34,-,-,Sri Lanka,Colombo (SSC),0,1,0,GJ Batty,England,2003
-764,18.0,2,149,0,8.27,-,-,South Africa,Cape Town,0,1,0,BE McGain,Australia,2009
-765,52.0,14,155,0,2.98,-,-,South Africa,Cape Town,0,1,0,MM Ali,England,2016
-766,44.0,5,157,0,3.56,-,-,Australia,Sydney,0,1,0,R Ashwin,India,2012
-767,38.0,3,170,0,4.47,-,-,England,The Oval,0,1,0,A Mishra,India,2011
-771,37.0,1,260,0,7.02,-,-,Australia,Adelaide,0,1,0,Imran Tahir,South Africa,2012
+655,10.0,0,21,0,2.1,1000,1000,South Africa,Centurion,0,1,0,D Ganga,West Indies,2004
+659,10.0,1,24,0,2.4,1000,1000,India,Nagpur,0,1,0,CL White,Australia,2008
+662,10.0,1,28,0,2.8,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,CH Gayle,West Indies,2001
+664,11.0,1,29,0,2.63,1000,1000,South Africa,Durban,0,1,0,RG Sharma,India,2013
+665,14.0,1,29,0,2.07,1000,1000,England,Manchester,0,1,0,R Ashwin,India,2014
+666,13.0,3,29,0,2.23,1000,1000,Australia,Adelaide,0,1,0,M Vijay,India,2014
+667,16.0,7,29,0,1.81,1000,1000,West Indies,St George's,0,1,0,JE Root,England,2015
+670,18.0,6,33,0,1.83,1000,1000,New Zealand,Napier,0,1,0,CH Gayle,West Indies,2008
+671,13.0,1,33,0,2.53,1000,1000,India,Mohali,0,1,0,MM Ali,England,2016
+673,12.0,1,35,0,2.91,1000,1000,Australia,Sydney,0,1,0,R Vijay Bharadwaj,India,2000
+674,12.0,2,35,0,2.91,1000,1000,Australia,Adelaide,0,1,0,RR Sarwan,West Indies,2005
+676,16.0,5,37,0,2.31,1000,1000,Australia,Sydney,0,1,0,MN Samuels,West Indies,2001
+681,14.0,3,39,0,2.78,1000,1000,South Africa,Durban,0,1,0,RP Arnold,Sri Lanka,2000
+682,10.0,0,39,0,3.9,1000,1000,South Africa,Cape Town,0,1,0,CH Gayle,West Indies,2004
+683,11.0,0,40,0,3.63,1000,1000,New Zealand,Wellington,0,1,0,RG Sharma,India,2014
+684,11.0,0,42,0,3.81,1000,1000,India,Mumbai,0,1,0,MN Samuels,West Indies,2013
+685,11.0,1,43,0,3.9,1000,1000,England,Manchester,0,1,0,S Chanderpaul,West Indies,2007
+686,12.0,1,46,0,3.83,1000,1000,Australia,Brisbane,0,1,0,MN Samuels,West Indies,2005
+687,18.0,4,46,0,2.55,1000,1000,New Zealand,Wellington,0,1,0,CH Gayle,West Indies,2006
+688,10.0,1,47,0,4.7,1000,1000,England,Nottingham,0,1,0,NM Lyon,Australia,2015
+689,16.0,0,47,0,2.93,1000,1000,India,Mohali,0,1,0,GJ Batty,England,2016
+690,16.0,0,48,0,3.0,1000,1000,India,Delhi,0,1,0,DM de Silva,Sri Lanka,2017
+692,12.0,0,49,0,4.08,1000,1000,England,Birmingham,0,1,0,RR Sarwan,West Indies,2004
+693,11.0,0,49,0,4.45,1000,1000,Australia,Sydney,0,1,0,JA Rudolph,South Africa,2006
+695,10.0,0,50,0,5.0,1000,1000,West Indies,Georgetown,0,1,0,GC Smith,South Africa,2005
+696,17.0,3,51,0,3.0,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,D Ramnarine,West Indies,2001
+697,10.0,1,51,0,5.1,1000,1000,South Africa,Centurion,0,1,0,SR Tendulkar,India,2010
+701,17.0,2,52,0,3.05,1000,1000,New Zealand,Hamilton,0,1,0,Imran Tahir,South Africa,2012
+702,13.0,0,52,0,4.0,1000,1000,Australia,Hobart,0,1,0,KC Brathwaite,West Indies,2015
+706,16.0,3,53,0,3.31,1000,1000,Australia,Sydney,0,1,0,SK Raina,India,2015
+707,20.0,4,54,0,2.7,1000,1000,South Africa,Cape Town,0,1,0,JE Root,England,2016
+709,16.0,0,55,0,3.43,1000,1000,Australia,Adelaide,0,1,0,V Sehwag,India,2012
+710,14.0,0,56,0,4.0,1000,1000,Australia,Melbourne,0,1,0,MN Samuels,West Indies,2000
+711,15.0,0,57,0,3.8,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,KP Pietersen,England,2007
+712,15.0,2,57,0,3.8,1000,1000,Australia,Brisbane,0,1,0,JE Root,England,2013
+713,24.0,3,59,0,2.45,1000,1000,Sri Lanka,Galle,0,1,0,CL Hooper,West Indies,2001
+714,16.3,2,59,0,3.57,1000,1000,England,Lord's,0,1,0,MJ North,Australia,2009
+715,34.0,10,60,0,1.76,1000,1000,Sri Lanka,Kandy,0,1,0,CL Hooper,West Indies,2001
+716,13.0,0,60,0,4.61,1000,1000,West Indies,St John's,0,1,0,MP Vaughan,England,2004
+717,17.0,4,60,0,3.52,1000,1000,South Africa,Cape Town,0,1,0,JS Patel,New Zealand,2013
+718,20.0,3,61,0,3.05,1000,1000,Sri Lanka,Colombo (PSS),0,1,0,D Bishoo,West Indies,2015
+720,34.0,18,63,0,1.85,1000,1000,South Africa,Cape Town,0,1,0,NM Lyon,Australia,2014
+722,16.0,3,65,0,4.06,1000,1000,West Indies,Kingston,0,1,0,Harbhajan Singh,India,2006
+725,12.0,0,69,0,5.75,1000,1000,Sri Lanka,Kandy,0,1,0,SCG MacGill,Australia,2004
+726,23.0,5,70,0,3.04,1000,1000,India,Kolkata,0,1,0,CH Gayle,West Indies,2002
+727,29.0,8,70,0,2.41,1000,1000,New Zealand,Wellington,0,1,0,RN Lewis,West Indies,2006
+728,15.0,1,70,0,4.66,1000,1000,England,Birmingham,0,1,0,SP Narine,West Indies,2012
+731,15.0,1,73,0,4.86,1000,1000,India,Delhi,0,1,0,CL White,Australia,2008
+732,12.0,0,73,0,6.08,1000,1000,New Zealand,Napier,0,1,0,V Sehwag,India,2009
+733,15.0,0,73,0,4.86,1000,1000,Sri Lanka,Colombo (RPS),0,1,0,S Shillingford,West Indies,2010
+735,23.0,2,74,0,3.21,1000,1000,New Zealand,Wellington,0,1,0,JP Duminy,South Africa,2012
+738,23.0,1,75,0,3.26,1000,1000,Australia,Sydney,0,1,0,V Sehwag,India,2012
+742,19.0,0,78,0,4.1,1000,1000,England,The Oval,0,1,0,SR Tendulkar,India,2007
+743,24.0,3,79,0,3.29,1000,1000,Australia,Adelaide,0,1,0,MM Ali,England,2017
+746,36.0,5,83,0,2.3,1000,1000,South Africa,Johannesburg,0,1,0,R Ashwin,India,2013
+748,20.0,0,89,0,4.45,1000,1000,South Africa,Centurion,0,1,0,MN Samuels,West Indies,2014
+749,25.2,2,89,0,3.51,1000,1000,Australia,Melbourne,0,1,0,MM Ali,England,2017
+750,34.0,5,91,0,2.67,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,NM Lyon,Australia,2011
+752,28.0,4,97,0,3.46,1000,1000,New Zealand,Wellington,0,1,0,UDU Chandana,Sri Lanka,2005
+753,30.0,4,98,0,3.26,1000,1000,Sri Lanka,Galle,0,1,0,Harbhajan Singh,India,2010
+755,27.0,0,104,0,3.85,1000,1000,India,Kolkata,0,1,0,MN Samuels,West Indies,2011
+757,29.0,4,111,0,3.82,1000,1000,West Indies,Port of Spain,0,1,0,MD Craig,New Zealand,2014
+760,37.0,4,121,0,3.27,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,A Kumble,India,2008
+761,33.2,6,126,0,3.78,1000,1000,Australia,Sydney,0,1,0,A Kumble,India,2000
+762,41.0,4,137,0,3.34,1000,1000,Sri Lanka,Colombo (SSC),0,1,0,GJ Batty,England,2003
+764,18.0,2,149,0,8.27,1000,1000,South Africa,Cape Town,0,1,0,BE McGain,Australia,2009
+765,52.0,14,155,0,2.98,1000,1000,South Africa,Cape Town,0,1,0,MM Ali,England,2016
+766,44.0,5,157,0,3.56,1000,1000,Australia,Sydney,0,1,0,R Ashwin,India,2012
+767,38.0,3,170,0,4.47,1000,1000,England,The Oval,0,1,0,A Mishra,India,2011
+771,37.0,1,260,0,7.02,1000,1000,Australia,Adelaide,0,1,0,Imran Tahir,South Africa,2012
 1,33.1,4,127,12,3.82,10.58,16.5,South Africa,Centurion,0,0,1,MG Johnson,Australia,2014
 2,28.4,8,94,11,3.27,8.54,15.6,Sri Lanka,Galle,0,0,1,MA Starc,Australia,2016
 5,36.1,8,132,10,3.64,13.2,21.7,New Zealand,Hamilton,0,0,1,MG Johnson,Australia,2010
@@ -4476,33 +4476,33 @@
 356,41.0,3,141,1,3.43,141,246,England,Birmingham,0,0,1,WPUJC Vaas,Sri Lanka,2002
 357,35.0,4,146,1,4.17,146,210,West Indies,Bridgetown,0,0,1,RJ Sidebottom,England,2009
 358,65.1,12,164,1,2.51,164,391,England,Lord's,0,0,1,WPUJC Vaas,Sri Lanka,2002
-360,10.0,4,17,0,1.7,-,-,India,Bengaluru,0,0,1,JEC Franklin,New Zealand,2012
-361,24.0,5,35,0,1.45,-,-,West Indies,Kingston,0,0,1,RJ Sidebottom,England,2009
-362,10.0,1,36,0,3.6,-,-,West Indies,Kingston,0,0,1,T Thushara,Sri Lanka,2003
-364,14.4,6,38,0,2.59,-,-,Australia,Melbourne,0,0,1,UWMBCA Welegedara,Sri Lanka,2012
-367,10.2,2,40,0,3.87,-,-,South Africa,Johannesburg,0,0,1,PDRL Perera,Sri Lanka,2002
-368,13.2,0,40,0,3.0,-,-,India,Hyderabad (Deccan),0,0,1,JEC Franklin,New Zealand,2012
-369,16.0,4,40,0,2.5,-,-,England,The Oval,0,0,1,MA Starc,Australia,2015
-371,17.0,3,44,0,2.58,-,-,India,Delhi,0,0,1,MG Johnson,Australia,2013
-372,20.0,7,46,0,2.3,-,-,England,Birmingham,0,0,1,CM Willoughby,South Africa,2003
-374,19.0,4,50,0,2.63,-,-,New Zealand,Wellington,0,0,1,A Nehra,India,2002
-376,20.0,3,62,0,3.1,-,-,South Africa,Durban,0,0,1,DNT Zoysa,Sri Lanka,2000
-378,17.2,4,67,0,3.86,-,-,Australia,Brisbane,0,0,1,SB O'Connor,New Zealand,2001
-380,25.0,3,75,0,3.0,-,-,India,Chennai,0,0,1,MA Starc,Australia,2013
-381,28.0,7,76,0,2.71,-,-,India,Mumbai,0,0,1,PT Collins,West Indies,2002
-382,26.0,6,80,0,3.07,-,-,South Africa,Cape Town,0,0,1,DNT Zoysa,Sri Lanka,2001
-387,26.0,1,84,0,3.23,-,-,South Africa,Durban,0,0,1,WPUJC Vaas,Sri Lanka,2000
-389,29.0,3,90,0,3.1,-,-,Australia,Melbourne,0,0,1,A Nehra,India,2003
-393,26.0,7,98,0,3.76,-,-,South Africa,Bloemfontein,0,0,1,Z Khan,India,2001
-395,26.0,4,101,0,3.88,-,-,South Africa,Centurion,0,0,1,JD Unadkat,India,2010
-396,17.0,2,102,0,6.0,-,-,Australia,Adelaide,0,0,1,JEC Franklin,New Zealand,2004
-398,25.0,4,103,0,4.12,-,-,Australia,Melbourne,0,0,1,Z Khan,India,2003
-400,26.0,4,103,0,3.96,-,-,India,Kanpur,0,0,1,UWMBCA Welegedara,Sri Lanka,2009
-401,20.0,1,103,0,5.15,-,-,India,Kolkata,0,0,1,WD Parnell,South Africa,2010
-405,34.0,7,118,0,3.47,-,-,England,The Oval,0,0,1,RP Singh,India,2011
-406,49.0,16,122,0,2.48,-,-,West Indies,St John's,0,0,1,A Nehra,India,2002
-407,27.0,3,134,0,4.96,-,-,Sri Lanka,Colombo (SSC),0,0,1,Z Khan,India,2001
-408,40.0,5,154,0,3.85,-,-,Australia,Cairns,0,0,1,WPUJC Vaas,Sri Lanka,2004
+360,10.0,4,17,0,1.7,1000,1000,India,Bengaluru,0,0,1,JEC Franklin,New Zealand,2012
+361,24.0,5,35,0,1.45,1000,1000,West Indies,Kingston,0,0,1,RJ Sidebottom,England,2009
+362,10.0,1,36,0,3.6,1000,1000,West Indies,Kingston,0,0,1,T Thushara,Sri Lanka,2003
+364,14.4,6,38,0,2.59,1000,1000,Australia,Melbourne,0,0,1,UWMBCA Welegedara,Sri Lanka,2012
+367,10.2,2,40,0,3.87,1000,1000,South Africa,Johannesburg,0,0,1,PDRL Perera,Sri Lanka,2002
+368,13.2,0,40,0,3.0,1000,1000,India,Hyderabad (Deccan),0,0,1,JEC Franklin,New Zealand,2012
+369,16.0,4,40,0,2.5,1000,1000,England,The Oval,0,0,1,MA Starc,Australia,2015
+371,17.0,3,44,0,2.58,1000,1000,India,Delhi,0,0,1,MG Johnson,Australia,2013
+372,20.0,7,46,0,2.3,1000,1000,England,Birmingham,0,0,1,CM Willoughby,South Africa,2003
+374,19.0,4,50,0,2.63,1000,1000,New Zealand,Wellington,0,0,1,A Nehra,India,2002
+376,20.0,3,62,0,3.1,1000,1000,South Africa,Durban,0,0,1,DNT Zoysa,Sri Lanka,2000
+378,17.2,4,67,0,3.86,1000,1000,Australia,Brisbane,0,0,1,SB O'Connor,New Zealand,2001
+380,25.0,3,75,0,3.0,1000,1000,India,Chennai,0,0,1,MA Starc,Australia,2013
+381,28.0,7,76,0,2.71,1000,1000,India,Mumbai,0,0,1,PT Collins,West Indies,2002
+382,26.0,6,80,0,3.07,1000,1000,South Africa,Cape Town,0,0,1,DNT Zoysa,Sri Lanka,2001
+387,26.0,1,84,0,3.23,1000,1000,South Africa,Durban,0,0,1,WPUJC Vaas,Sri Lanka,2000
+389,29.0,3,90,0,3.1,1000,1000,Australia,Melbourne,0,0,1,A Nehra,India,2003
+393,26.0,7,98,0,3.76,1000,1000,South Africa,Bloemfontein,0,0,1,Z Khan,India,2001
+395,26.0,4,101,0,3.88,1000,1000,South Africa,Centurion,0,0,1,JD Unadkat,India,2010
+396,17.0,2,102,0,6.0,1000,1000,Australia,Adelaide,0,0,1,JEC Franklin,New Zealand,2004
+398,25.0,4,103,0,4.12,1000,1000,Australia,Melbourne,0,0,1,Z Khan,India,2003
+400,26.0,4,103,0,3.96,1000,1000,India,Kanpur,0,0,1,UWMBCA Welegedara,Sri Lanka,2009
+401,20.0,1,103,0,5.15,1000,1000,India,Kolkata,0,0,1,WD Parnell,South Africa,2010
+405,34.0,7,118,0,3.47,1000,1000,England,The Oval,0,0,1,RP Singh,India,2011
+406,49.0,16,122,0,2.48,1000,1000,West Indies,St John's,0,0,1,A Nehra,India,2002
+407,27.0,3,134,0,4.96,1000,1000,Sri Lanka,Colombo (SSC),0,0,1,Z Khan,India,2001
+408,40.0,5,154,0,3.85,1000,1000,Australia,Cairns,0,0,1,WPUJC Vaas,Sri Lanka,2004
 1,28.1,6,70,12,2.48,5.83,14,India,Pune,0,0,0,SNJ O'Keefe,Australia,2017
 3,69.0,15,210,11,3.04,19.09,37.6,India,Mumbai,0,0,0,MS Panesar,England,2012
 5,50.3,14,128,9,2.53,14.22,33.6,South Africa,Durban,0,0,0,HMRKB Herath,Sri Lanka,2011
@@ -4708,36 +4708,36 @@
 312,59.0,15,185,1,3.13,185,354,Sri Lanka,Colombo (SSC),0,0,0,PP Ojha,India,2010
 313,61.0,5,208,1,3.4,208,366,India,Indore,0,0,0,MJ Santner,New Zealand,2016
 314,45.0,6,211,1,4.68,211,270,Australia,Sydney,0,0,0,M Kartik,India,2004
-317,11.0,4,32,0,2.9,+AC0-,+AC0-,England,Manchester,0,0,0,JC Adams,West Indies,2000
-318,13.0,2,35,0,2.69,+AC0-,+AC0-,Australia,Adelaide,0,0,0,JC Adams,West Indies,2000
-319,15.0,5,35,0,2.33,+AC0-,+AC0-,England,Leeds,0,0,0,PL Harris,South Africa,2008
-320,10.0,0,40,0,4.0,+AC0-,+AC0-,India,Mumbai,0,0,0,RO Hinds,West Indies,2002
-322,23.0,4,41,0,1.78,+AC0-,+AC0-,South Africa,Centurion,0,0,0,HMRKB Herath,Sri Lanka,2011
-323,12.0,2,43,0,3.58,+AC0-,+AC0-,India,Nagpur,0,0,0,ID Blackwell,England,2006
-324,14.0,1,44,0,3.14,+AC0-,+AC0-,Sri Lanka,Kandy,0,0,0,PR Adams,South Africa,2000
-325,12.0,1,45,0,3.75,+AC0-,+AC0-,India,Visakhapatnam,0,0,0,ZS Ansari,England,2016
-326,11.0,1,50,0,4.54,+AC0-,+AC0-,South Africa,Centurion,0,0,0,AF Giles,England,2005
-330,12.0,1,52,0,4.33,+AC0-,+AC0-,Australia,Melbourne,0,0,0,MS Panesar,England,2006
-332,16.4,2,54,0,3.24,+AC0-,+AC0-,Australia,Sydney,0,0,0,JC Adams,West Indies,2001
-335,12.0,0,59,0,4.91,+AC0-,+AC0-,New Zealand,Napier,0,0,0,Yuvraj Singh,India,2009
-336,19.0,2,65,0,3.42,+AC0-,+AC0-,West Indies,Port of Spain,0,0,0,N Boje,South Africa,2001
-337,13.4,0,65,0,4.75,+AC0-,+AC0-,Australia,Brisbane,0,0,0,DL Vettori,New Zealand,2001
-338,25.0,6,66,0,2.64,+AC0-,+AC0-,England,Lord's,0,0,0,ST Jayasuriya,Sri Lanka,2002
-339,14.0,0,67,0,4.78,+AC0-,+AC0-,South Africa,Johannesburg,0,0,0,HMRKB Herath,Sri Lanka,2017
-342,24.0,1,73,0,3.04,+AC0-,+AC0-,India,Delhi,0,0,0,D Elgar,South Africa,2015
-343,30.0,6,76,0,2.53,+AC0-,+AC0-,West Indies,St John's,0,0,0,N Boje,South Africa,2005
-344,26.0,3,76,0,2.92,+AC0-,+AC0-,Sri Lanka,Galle,0,0,0,MS Panesar,England,2007
-345,26.0,2,77,0,2.96,+AC0-,+AC0-,England,Manchester,0,0,0,D Mohammed,West Indies,2004
-347,35.0,5,80,0,2.28,+AC0-,+AC0-,England,Nottingham,0,0,0,RA Jadeja,India,2014
-349,24.0,8,87,0,3.62,+AC0-,+AC0-,India,Mohali,0,0,0,XJ Doherty,Australia,2013
-352,31.0,3,95,0,3.06,+AC0-,+AC0-,Sri Lanka,Galle,0,0,0,NC McGarrell,West Indies,2001
-353,39.0,7,95,0,2.43,+AC0-,+AC0-,Australia,Melbourne,0,0,0,HMRKB Herath,Sri Lanka,2012
-355,47.0,13,99,0,2.1,+AC0-,+AC0-,West Indies,Providence,0,0,0,HMRKB Herath,Sri Lanka,2008
-358,30.0,5,105,0,3.5,+AC0-,+AC0-,Sri Lanka,Kandy,0,0,0,AF Giles,England,2001
-361,27.0,3,112,0,4.14,+AC0-,+AC0-,Australia,Sydney,0,0,0,CW Henderson,South Africa,2002
-362,26.0,2,113,0,4.34,+AC0-,+AC0-,Australia,Melbourne,0,0,0,JA Warrican,West Indies,2015
-363,34.3,7,115,0,3.33,+AC0-,+AC0-,India,Delhi,0,0,0,MJ Clarke,Australia,2008
-364,28.0,1,115,0,4.1,+AC0-,+AC0-,Sri Lanka,Galle,0,0,0,PP Ojha,India,2010
-365,32.1,4,124,0,3.85,+AC0-,+AC0-,Australia,Melbourne,0,0,0,N Boje,South Africa,2005
-367,42.0,7,142,0,3.38,+AC0-,+AC0-,England,Lord's,0,0,0,AC Agar,Australia,2013
-371,65.0,5,221,0,3.4,+AC0-,+AC0-,Sri Lanka,Colombo (SSC),0,0,0,N Boje,South Africa,2006
+317,11.0,4,32,0,2.9,1000,1000,England,Manchester,0,0,0,JC Adams,West Indies,2000
+318,13.0,2,35,0,2.69,1000,1000,Australia,Adelaide,0,0,0,JC Adams,West Indies,2000
+319,15.0,5,35,0,2.33,1000,1000,England,Leeds,0,0,0,PL Harris,South Africa,2008
+320,10.0,0,40,0,4.0,1000,1000,India,Mumbai,0,0,0,RO Hinds,West Indies,2002
+322,23.0,4,41,0,1.78,1000,1000,South Africa,Centurion,0,0,0,HMRKB Herath,Sri Lanka,2011
+323,12.0,2,43,0,3.58,1000,1000,India,Nagpur,0,0,0,ID Blackwell,England,2006
+324,14.0,1,44,0,3.14,1000,1000,Sri Lanka,Kandy,0,0,0,PR Adams,South Africa,2000
+325,12.0,1,45,0,3.75,1000,1000,India,Visakhapatnam,0,0,0,ZS Ansari,England,2016
+326,11.0,1,50,0,4.54,1000,1000,South Africa,Centurion,0,0,0,AF Giles,England,2005
+330,12.0,1,52,0,4.33,1000,1000,Australia,Melbourne,0,0,0,MS Panesar,England,2006
+332,16.4,2,54,0,3.24,1000,1000,Australia,Sydney,0,0,0,JC Adams,West Indies,2001
+335,12.0,0,59,0,4.91,1000,1000,New Zealand,Napier,0,0,0,Yuvraj Singh,India,2009
+336,19.0,2,65,0,3.42,1000,1000,West Indies,Port of Spain,0,0,0,N Boje,South Africa,2001
+337,13.4,0,65,0,4.75,1000,1000,Australia,Brisbane,0,0,0,DL Vettori,New Zealand,2001
+338,25.0,6,66,0,2.64,1000,1000,England,Lord's,0,0,0,ST Jayasuriya,Sri Lanka,2002
+339,14.0,0,67,0,4.78,1000,1000,South Africa,Johannesburg,0,0,0,HMRKB Herath,Sri Lanka,2017
+342,24.0,1,73,0,3.04,1000,1000,India,Delhi,0,0,0,D Elgar,South Africa,2015
+343,30.0,6,76,0,2.53,1000,1000,West Indies,St John's,0,0,0,N Boje,South Africa,2005
+344,26.0,3,76,0,2.92,1000,1000,Sri Lanka,Galle,0,0,0,MS Panesar,England,2007
+345,26.0,2,77,0,2.96,1000,1000,England,Manchester,0,0,0,D Mohammed,West Indies,2004
+347,35.0,5,80,0,2.28,1000,1000,England,Nottingham,0,0,0,RA Jadeja,India,2014
+349,24.0,8,87,0,3.62,1000,1000,India,Mohali,0,0,0,XJ Doherty,Australia,2013
+352,31.0,3,95,0,3.06,1000,1000,Sri Lanka,Galle,0,0,0,NC McGarrell,West Indies,2001
+353,39.0,7,95,0,2.43,1000,1000,Australia,Melbourne,0,0,0,HMRKB Herath,Sri Lanka,2012
+355,47.0,13,99,0,2.1,1000,1000,West Indies,Providence,0,0,0,HMRKB Herath,Sri Lanka,2008
+358,30.0,5,105,0,3.5,1000,1000,Sri Lanka,Kandy,0,0,0,AF Giles,England,2001
+361,27.0,3,112,0,4.14,1000,1000,Australia,Sydney,0,0,0,CW Henderson,South Africa,2002
+362,26.0,2,113,0,4.34,1000,1000,Australia,Melbourne,0,0,0,JA Warrican,West Indies,2015
+363,34.3,7,115,0,3.33,1000,1000,India,Delhi,0,0,0,MJ Clarke,Australia,2008
+364,28.0,1,115,0,4.1,1000,1000,Sri Lanka,Galle,0,0,0,PP Ojha,India,2010
+365,32.1,4,124,0,3.85,1000,1000,Australia,Melbourne,0,0,0,N Boje,South Africa,2005
+367,42.0,7,142,0,3.38,1000,1000,England,Lord's,0,0,0,AC Agar,Australia,2013
+371,65.0,5,221,0,3.4,1000,1000,Sri Lanka,Colombo (SSC),0,0,0,N Boje,South Africa,2006
