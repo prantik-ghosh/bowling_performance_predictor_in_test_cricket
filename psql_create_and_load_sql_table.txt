@@ -54,3 +54,14 @@ SET
 ;
 
 
+/* All of the above are executed at the start before running the functions to create/manipulate the stats */
+/* The below should be run at the end after the stat creation/manipulation is over */
+
+
+COPY
+  bowling_data
+TO
+  '/home/prantik/galvanize/dsi-capstone-bowler-performance/data/bowling_data_enhanced.csv'
+WITH
+  (FORMAT CSV, HEADER);
+
