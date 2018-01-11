@@ -1,0 +1,299 @@
+fitting_lr_and_rf(input_file, test_yr=2015, fit_lr=True, fit_rf=True)
+
+
+
+
+*********************************************
+**** RUNNING MODELS FOR FULL FEATURE SET ****
+*********************************************
+**** LINEAR REGRESSION ****
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   wkts   R-squared:                       0.071
+Model:                            OLS   Adj. R-squared:                  0.063
+Method:                 Least Squares   F-statistic:                     8.280
+Date:                Thu, 11 Jan 2018   Prob (F-statistic):           2.18e-17
+Time:                        10:30:16   Log-Likelihood:                -3449.5
+No. Observations:                1521   AIC:                             6929.
+Df Residuals:                    1506   BIC:                             7009.
+Df Model:                          14                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   1.2688      0.667      1.901      0.057      -0.040       2.578
+year1_mtchs_pld         0.0015      0.022      0.069      0.945      -0.042       0.045
+year2_mtchs_pld        -0.0352      0.025     -1.415      0.157      -0.084       0.014
+year3_mtchs_pld         0.0272      0.027      1.016      0.310      -0.025       0.080
+year4_mtchs_pld        -0.0285      0.030     -0.963      0.336      -0.086       0.029
+year5_mtchs_pld        -0.0237      0.029     -0.825      0.410      -0.080       0.033
+year1_wkts_pm           0.1995      0.040      5.015      0.000       0.121       0.278
+year2_wkts_pm           0.1644      0.046      3.600      0.000       0.075       0.254
+year3_wkts_pm          -0.0135      0.051     -0.266      0.790      -0.113       0.086
+year4_wkts_pm           0.1012      0.058      1.751      0.080      -0.012       0.214
+year5_wkts_pm          -0.0228      0.055     -0.417      0.676      -0.130       0.084
+bowler_agnst_oppo      -0.1267      0.213     -0.596      0.551      -0.544       0.290
+oppo_agnst_bowl_typ    -0.1650      0.470     -0.351      0.726      -1.087       0.757
+bowl_home_adv           0.0526      0.524      0.100      0.920      -0.975       1.080
+ground_bowl_typ         1.2345      0.339      3.646      0.000       0.570       1.899
+==============================================================================
+Omnibus:                      171.342   Durbin-Watson:                   1.906
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              230.052
+Skew:                           0.915   Prob(JB):                     1.11e-50
+Kurtosis:                       3.529   Cond. No.                         132.
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Explained Variance (LR model): 0.791203378619
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (LR model): 34.0874571548
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+**** RANDOM FOREST Grid Search ****
+Fitting 3 folds for each of 288 candidates, totalling 864 fits
+
+[Parallel(n_jobs=-1)]: Done  76 tasks      | elapsed:    9.3s
+[Parallel(n_jobs=-1)]: Done 233 tasks      | elapsed:   35.0s
+[Parallel(n_jobs=-1)]: Done 483 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=-1)]: Done 833 tasks      | elapsed:  3.2min
+[Parallel(n_jobs=-1)]: Done 864 out of 864 | elapsed:  3.5min finished
+
+Best Parameters: {'bootstrap': True, 'max_depth': 3, 'max_features': 5, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 300, 'random_state': 10}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.25006069805324604)
+('year2_wkts_pm', 0.21900772765756221)
+('ground_bowl_typ', 0.13972219815085574)
+('year3_wkts_pm', 0.074573099056609776)
+('year1_mtchs_pld', 0.065377140386198546)
+('year4_wkts_pm', 0.056714013569744481)
+('bowl_home_adv', 0.04375989670979074)
+('year3_mtchs_pld', 0.026340063796564204)
+('oppo_agnst_bowl_typ', 0.024509688938122186)
+('year4_mtchs_pld', 0.022672408825991718)
+('bowler_agnst_oppo', 0.022495208792913678)
+('year2_mtchs_pld', 0.020868171275340502)
+('year5_wkts_pm', 0.019468802367541733)
+('year5_mtchs_pld', 0.014430882419518563)
+ 
+Explained Variance (RF model): 0.80049353923
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (RF model): 32.7016893157
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+**********************************************
+**** RUNNING MODELS FOR SMALL FEATURE SET ****
+**********************************************
+**** LINEAR REGRESSION ****
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   wkts   R-squared:                       0.068
+Model:                            OLS   Adj. R-squared:                  0.063
+Method:                 Least Squares   F-statistic:                     12.27
+Date:                Thu, 11 Jan 2018   Prob (F-statistic):           6.49e-19
+Time:                        10:33:50   Log-Likelihood:                -3452.2
+No. Observations:                1521   AIC:                             6924.
+Df Residuals:                    1511   BIC:                             6978.
+Df Model:                           9                                         
+Covariance Type:            nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+const                   1.0769      0.657      1.638      0.102      -0.213       2.367
+year1_wkts_pm           0.2013      0.036      5.536      0.000       0.130       0.273
+year2_wkts_pm           0.1339      0.039      3.428      0.001       0.057       0.211
+year3_wkts_pm          -0.0088      0.043     -0.206      0.837      -0.092       0.075
+year4_wkts_pm           0.0730      0.049      1.478      0.140      -0.024       0.170
+year5_wkts_pm          -0.0626      0.046     -1.349      0.177      -0.154       0.028
+bowler_agnst_oppo      -0.0981      0.211     -0.464      0.643      -0.513       0.316
+oppo_agnst_bowl_typ    -0.0604      0.465     -0.130      0.897      -0.973       0.853
+bowl_home_adv           0.0654      0.524      0.125      0.901      -0.962       1.092
+ground_bowl_typ         1.2709      0.337      3.769      0.000       0.610       1.932
+==============================================================================
+Omnibus:                      168.294   Durbin-Watson:                   1.900
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              224.694
+Skew:                           0.908   Prob(JB):                     1.62e-49
+Kurtosis:                       3.496   Cond. No.                         68.8
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Explained Variance (LR model): 0.785060277963
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (LR model): 35.1250292602
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+**** RANDOM FOREST Grid Search ****
+Fitting 3 folds for each of 288 candidates, totalling 864 fits
+
+[Parallel(n_jobs=-1)]: Done  60 tasks      | elapsed:    8.5s
+[Parallel(n_jobs=-1)]: Done 210 tasks      | elapsed:   33.5s
+[Parallel(n_jobs=-1)]: Done 460 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=-1)]: Done 810 tasks      | elapsed:  3.2min
+[Parallel(n_jobs=-1)]: Done 864 out of 864 | elapsed:  3.8min finished
+
+Best Parameters: {'bootstrap': True, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 300, 'random_state': 10}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.28958784970502444)
+('year2_wkts_pm', 0.23306883315638763)
+('ground_bowl_typ', 0.14418579772239479)
+('year3_wkts_pm', 0.10176916510515874)
+('bowl_home_adv', 0.058955210296794125)
+('year4_wkts_pm', 0.056069565852523803)
+('oppo_agnst_bowl_typ', 0.045104735217020915)
+('year5_wkts_pm', 0.037404536989588816)
+('bowler_agnst_oppo', 0.033854305955106613)
+ 
+Explained Variance (RF model): 0.800408884128
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (RF model): 32.6939660128
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+************************************************
+**** RUNNING MODELS FOR SMALLER FEATURE SET ****
+************************************************
+**** LINEAR REGRESSION ****
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   wkts   R-squared:                       0.068
+Model:                            OLS   Adj. R-squared:                  0.064
+Method:                 Least Squares   F-statistic:                     15.76
+Date:                Thu, 11 Jan 2018   Prob (F-statistic):           4.52e-20
+Time:                        10:37:38   Log-Likelihood:                -3452.3
+No. Observations:                1521   AIC:                             6921.
+Df Residuals:                    1513   BIC:                             6963.
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+===================================================================================
+                      coef    std err          t      P>|t|      [0.025      0.975]
+-----------------------------------------------------------------------------------
+const               0.9075      0.422      2.151      0.032       0.080       1.735
+year1_wkts_pm       0.2016      0.036      5.547      0.000       0.130       0.273
+year2_wkts_pm       0.1344      0.039      3.445      0.001       0.058       0.211
+year3_wkts_pm      -0.0089      0.042     -0.209      0.835      -0.092       0.074
+year4_wkts_pm       0.0743      0.049      1.510      0.131      -0.022       0.171
+year5_wkts_pm      -0.0641      0.046     -1.387      0.166      -0.155       0.027
+bowl_home_adv       0.0808      0.522      0.155      0.877      -0.943       1.105
+ground_bowl_typ     1.2717      0.336      3.781      0.000       0.612       1.932
+==============================================================================
+Omnibus:                      168.771   Durbin-Watson:                   1.902
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              225.523
+Skew:                           0.909   Prob(JB):                     1.07e-49
+Kurtosis:                       3.501   Cond. No.                         51.9
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Explained Variance (LR model): 0.783045260215
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (LR model): 35.4501262182
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+**** RANDOM FOREST Grid Search ****
+Fitting 3 folds for each of 288 candidates, totalling 864 fits
+
+[Parallel(n_jobs=-1)]: Done  42 tasks      | elapsed:    7.0s
+[Parallel(n_jobs=-1)]: Done 192 tasks      | elapsed:   32.8s
+[Parallel(n_jobs=-1)]: Done 442 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=-1)]: Done 792 tasks      | elapsed:  2.9min
+[Parallel(n_jobs=-1)]: Done 864 out of 864 | elapsed:  3.4min finished
+
+Best Parameters: {'bootstrap': True, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 4, 'n_estimators': 300, 'random_state': 10}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.29341939680700707)
+('year2_wkts_pm', 0.21713970477037259)
+('ground_bowl_typ', 0.15986727880595306)
+('year3_wkts_pm', 0.10662431155281903)
+('year4_wkts_pm', 0.096678941430961812)
+('bowl_home_adv', 0.079387285257901702)
+('year5_wkts_pm', 0.046883081374984897)
+ 
+Explained Variance (RF model): 0.801506756728
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (RF model): 32.4982374911
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+*************************************************
+**** RUNNING MODELS FOR SMALLEST FEATURE SET ****
+*************************************************
+**** LINEAR REGRESSION ****
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   wkts   R-squared:                       0.059
+Model:                            OLS   Adj. R-squared:                  0.056
+Method:                 Least Squares   F-statistic:                     19.01
+Date:                Thu, 11 Jan 2018   Prob (F-statistic):           2.21e-18
+Time:                        10:41:05   Log-Likelihood:                -3459.6
+No. Observations:                1521   AIC:                             6931.
+Df Residuals:                    1515   BIC:                             6963.
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+=================================================================================
+                    coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const             2.2064      0.103     21.397      0.000       2.004       2.409
+year1_wkts_pm     0.2030      0.036      5.571      0.000       0.132       0.275
+year2_wkts_pm     0.1363      0.039      3.485      0.001       0.060       0.213
+year3_wkts_pm    -0.0087      0.043     -0.205      0.838      -0.092       0.075
+year4_wkts_pm     0.0736      0.049      1.490      0.136      -0.023       0.171
+year5_wkts_pm    -0.0584      0.046     -1.260      0.208      -0.149       0.033
+==============================================================================
+Omnibus:                      175.220   Durbin-Watson:                   1.895
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              236.939
+Skew:                           0.925   Prob(JB):                     3.54e-52
+Kurtosis:                       3.560   Cond. No.                         8.81
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+Explained Variance (LR model): 0.768402625835
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (LR model): 37.8610566305
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+**** RANDOM FOREST Grid Search ****
+Fitting 3 folds for each of 288 candidates, totalling 864 fits
+
+[Parallel(n_jobs=-1)]: Done  55 tasks      | elapsed:    9.2s
+[Parallel(n_jobs=-1)]: Done 205 tasks      | elapsed:   33.5s
+[Parallel(n_jobs=-1)]: Done 455 tasks      | elapsed:  1.4min
+[Parallel(n_jobs=-1)]: Done 805 tasks      | elapsed:  2.5min
+[Parallel(n_jobs=-1)]: Done 864 out of 864 | elapsed:  2.7min finished
+
+Best Parameters: {'bootstrap': True, 'max_depth': 3, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300, 'random_state': 10}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.35650965271545709)
+('year2_wkts_pm', 0.34318879550437204)
+('year3_wkts_pm', 0.13799036443522741)
+('year4_wkts_pm', 0.10779654640703837)
+('year5_wkts_pm', 0.054514640937905152)
+ 
+Explained Variance (RF model): 0.803787480675
+Explained Variance (Baseline): 0.281107905196
+----
+Mean Squared Error (RF model): 32.108824735
+Mean Squared Error (Baseline): 123.171196479
+----
+ 
+
+​
+
+
