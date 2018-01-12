@@ -1,0 +1,118 @@
+input_file = 'data/bowling_data_enhanced.csv'
+fitting_gb_models(input_file, test_yr=2011)
+
+
+
+
+*********************************************
+**** RUNNING MODELS FOR FULL FEATURE SET ****
+*********************************************
+**** GRADIENT BOOSTING Grid Search ****
+Fitting 3 folds for each of 144 candidates, totalling 432 fits
+
+[Parallel(n_jobs=1)]: Done 432 out of 432 | elapsed:  4.4min finished
+
+Best Parameters: {'learning_rate': 0.01, 'max_depth': 3, 'max_features': None, 'n_estimators': 100, 'random_state': 10, 'subsample': 0.5}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.32176410210147638)
+('year3_wkts_pm', 0.11941823460148186)
+('year2_wkts_pm', 0.10672189024360308)
+('ground_bowl_typ', 0.098448041103819786)
+('year4_wkts_pm', 0.09440449571877052)
+('bowl_home_adv', 0.067639402537492177)
+('oppo_agnst_bowl_typ', 0.050116291857822175)
+('year1_mtchs_pld', 0.043014130070802452)
+('bowler_agnst_oppo', 0.029394859386856775)
+('year5_wkts_pm', 0.017764963441717928)
+('year2_mtchs_pld', 0.016109324098261556)
+('year4_mtchs_pld', 0.015198337067176158)
+('year5_mtchs_pld', 0.010950521320728103)
+('year3_mtchs_pld', 0.0090554064499909562)
+ 
+Explained Variance (GB model): 0.701626659209
+Explained Variance (Baseline): 0.229112985258
+----
+Mean Squared Error (GB model): 32.5924198761
+Mean Squared Error (Baseline): 98.4604956691
+----
+ 
+**********************************************
+**** RUNNING MODELS FOR SMALL FEATURE SET ****
+**********************************************
+**** GRADIENT BOOSTING Grid Search ****
+Fitting 3 folds for each of 144 candidates, totalling 432 fits
+
+[Parallel(n_jobs=1)]: Done 432 out of 432 | elapsed:  3.6min finished
+
+Best Parameters: {'learning_rate': 0.01, 'max_depth': 3, 'max_features': None, 'n_estimators': 100, 'random_state': 10, 'subsample': 0.5}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.34551441682816597)
+('year3_wkts_pm', 0.12666815437498044)
+('ground_bowl_typ', 0.11978086938313692)
+('year2_wkts_pm', 0.11452893868501456)
+('year4_wkts_pm', 0.10008800656062998)
+('bowl_home_adv', 0.078291985375918319)
+('oppo_agnst_bowl_typ', 0.049735815165047575)
+('bowler_agnst_oppo', 0.040494446364356479)
+('year5_wkts_pm', 0.024897367262749857)
+ 
+Explained Variance (GB model): 0.70693336315
+Explained Variance (Baseline): 0.229112985258
+----
+Mean Squared Error (GB model): 31.7860121254
+Mean Squared Error (Baseline): 98.4604956691
+----
+ 
+************************************************
+**** RUNNING MODELS FOR SMALLER FEATURE SET ****
+************************************************
+**** GRADIENT BOOSTING Grid Search ****
+Fitting 3 folds for each of 144 candidates, totalling 432 fits
+
+[Parallel(n_jobs=1)]: Done 432 out of 432 | elapsed:  3.0min finished
+
+Best Parameters: {'learning_rate': 0.01, 'max_depth': 3, 'max_features': 'sqrt', 'n_estimators': 300, 'random_state': 10, 'subsample': 0.5}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.22316102034368324)
+('ground_bowl_typ', 0.17525557966678768)
+('year3_wkts_pm', 0.13441313769981791)
+('bowl_home_adv', 0.12894090149135051)
+('year2_wkts_pm', 0.12869562070666229)
+('year4_wkts_pm', 0.12554356573052666)
+('year5_wkts_pm', 0.083990174361171469)
+ 
+Explained Variance (GB model): 0.696227782705
+Explained Variance (Baseline): 0.229112985258
+----
+Mean Squared Error (GB model): 33.5297164056
+Mean Squared Error (Baseline): 98.4604956691
+----
+ 
+*************************************************
+**** RUNNING MODELS FOR SMALLEST FEATURE SET ****
+*************************************************
+**** GRADIENT BOOSTING Grid Search ****
+Fitting 3 folds for each of 144 candidates, totalling 432 fits
+Best Parameters: {'learning_rate': 0.01, 'max_depth': 3, 'max_features': None, 'n_estimators': 100, 'random_state': 10, 'subsample': 1.0}
+ 
+Sorted Feature Importance:
+('year1_wkts_pm', 0.51890400388858249)
+('year4_wkts_pm', 0.15148710636398194)
+('year3_wkts_pm', 0.15003593989756572)
+('year2_wkts_pm', 0.12017786796128074)
+('year5_wkts_pm', 0.059395081888589038)
+ 
+Explained Variance (GB model): 0.700986399682
+Explained Variance (Baseline): 0.229112985258
+----
+Mean Squared Error (GB model): 32.468969484
+Mean Squared Error (Baseline): 98.4604956691
+----
+ 
+
+[Parallel(n_jobs=1)]: Done 432 out of 432 | elapsed:  1.8min finished
+
+
